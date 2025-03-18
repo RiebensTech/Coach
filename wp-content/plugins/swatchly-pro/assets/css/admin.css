@@ -1,0 +1,185 @@
+/*
+Admin style.
+Contain all admin style of the plugin.
+
+/* 1. General
+======================================================= */
+.swatchly_d_none {
+    display: none;
+}
+.csf-nav-options .swatchly_active{
+    position: relative;
+}
+.csf-nav-options .swatchly_active::after{
+    content: "";
+    width: 10px;
+    height: 10px;
+    color: #2dbe60;
+    background: #2dbe60;
+    position: absolute;
+    z-index: 1;
+    border-radius: 50%;
+    left: 7px;
+    top: 49%;
+    transform: translateY(-51%);
+    line-height: 10px;
+}
+
+/*Taxonomy metabox*/
+.csf-taxonomy-add-fields>.csf-field>.csf-title h4 {
+    font-size: 1.1em;
+    color: #1d2327;
+    font-weight: 600;
+}
+
+/*Swatch preview*/
+table.wp-list-table td.column-thumb .swatchly_preview {
+    width: 44px;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    font-weight: 700;
+    border: 1px solid #ddd;
+}
+
+ /* 2. Product Metabox
+======================================================= */
+.swatchly .wc-metabox h3 .fr strong {
+    font-weight: 400;
+    margin-right: 5px;
+}
+
+.swatchly .wc-metabox h3 .fr select {
+    max-width: 100%;
+    margin: 0;
+    width: auto !important;
+}
+
+.swatchly .wc-metabox .wc-metabox {
+    border: 1px solid transparent;
+    margin-bottom: 10px !important;
+}
+
+.swatchly .wc-metabox .wc-metabox h3 {
+    border: 1px solid #eee !important;
+}
+
+.swatchly .wc-metabox .wc-metabox table {
+    border: 0;
+}
+
+.swatchly .wc-metabox .wc-metabox.open {
+    border: 1px solid #eee;
+    margin-bottom: 10px !important;
+}
+
+.swatchly .wc-metabox .wc-metabox h3 {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+.swatchly .wc-metabox .wc-metabox.open h3 {
+    background: #eee;
+}
+
+.swatchly .wc-metabox .wc-metabox-content > table td select {
+    width: auto !important;
+}
+
+.swatchly.wc-metaboxes-wrapper .woocommerce-message {
+    display: none;
+    margin: 10px !important;
+}
+
+.swatchly_media_preview {
+    margin-right: 10px;
+}
+
+.swatchly_media_preview img {
+    width: 60px;
+    height: 60px;
+}
+
+/*Conditional fields*/
+.swatchly_show_if_label,
+.swatchly_show_if_color,
+.swatchly_show_if_image,
+.swatchly_show_if_tooltip_text,
+.swatchly_show_if_tooltip_image,
+.swatchly_show_if_enable_multi_color_1,
+.swatchly_type_ .csf-field.swatchly_hide_if_select,
+.swatchly_type_select .csf-field.swatchly_hide_if_select,
+.swatchly_show_if_auto_convert_to_dropdown_image_1 {
+    display: none;
+}
+
+.swatchly_1.swatchly_type_color tr.swatchly_show_if_color,
+.swatchly_1.swatchly_type_image tr.swatchly_show_if_image,
+.swatchly_1.swatchly_tooltip_text tr.swatchly_show_if_tooltip_text,
+.swatchly_1.swatchly_tooltip_image tr.swatchly_show_if_tooltip_image,
+.swatchly_1.swatchly_type_color.swatchly_enable_multi_color_1 tr.swatchly_show_if_enable_multi_color_1,
+.swatchly_2.swatchly_tooltip_text>.wc-metabox-content>table>tbody>tr.swatchly_show_if_tooltip_text,
+.swatchly_2.swatchly_tooltip_image>.wc-metabox-content>table>tbody>tr.swatchly_show_if_tooltip_image {
+    display: table-row;
+}
+
+.swatchly_type_color .csf-field.swatchly_show_if_color,
+.swatchly_type_image .csf-field.swatchly_show_if_image,
+.swatchly_type_label .csf-field.swatchly_show_if_label,
+.swatchly_auto_convert_dropdowns_to_image_1 .swatchly_show_if_auto_convert_to_dropdown_image_1 {
+    display: block;
+}
+
+.swatchly .toolbar-top input[type="checkbox"] {
+    float: none;
+}
+
+.swatchly .toolbar-top label {
+    margin-left: 5px;
+    float: none;
+    width: auto;
+}
+
+.swatchly .toolbar-top .swatchly_condition label{
+    margin-left: 0;
+}
+.swatchly .wc-metabox table td input[type="text"] {
+    padding: 0px 4px;
+}
+
+.swatchly .wc-metabox table td input[type="checkbox"] {
+    width: 1rem;
+    min-width: 1rem;
+}
+
+.swatchly .wc-metabox .wp-picker-input-wrap {
+    min-width: 150px;
+}
+
+.swatchly .wc-metabox .swatchly_color_picker {
+    width: 4rem !important;
+    min-width: 4rem !important;
+}
+
+#swatchly_swatches_product_data .wc-metabox .wp-picker-clear {
+    display: inline-block;
+    min-width: auto;
+    width: auto;
+    float: left;
+}
+
+.wc-metabox.swatchly_2.swatchly_type_ h3,
+.wc-metabox.swatchly_2.swatchly_type_select h3 {
+    cursor: no-drop;
+}
+
+.wc-metabox.swatchly_2.swatchly_type_label h3,
+.wc-metabox.swatchly_2.swatchly_type_color h3,
+.wc-metabox.swatchly_2.swatchly_type_image h3 {
+    cursor: pointer;
+}
+
+.swatchly .wc-metabox.swatchly_1 table td {
+    padding: .6em .6em .6em 0;
+    vertical-align: middle;
+}

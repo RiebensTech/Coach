@@ -1,0 +1,2 @@
+[2024-12-07T12:05:55.680759+00:00] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"https:\/\/www.peacherp.com","localhost":"no","source":{"plugin":"flexible-refund-and-return-order-for-woocommercephp","ctx":"notice"}} {"source":"wpdesk-sender"} []
+[2024-12-07T12:05:56.482228+00:00] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []

@@ -1,0 +1,1650 @@
+# Copyright (C) 2024 wpxpo
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: WowStore Pro 2.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/product-blocks-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-10T05:31:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: product-blocks-pro\n"
+
+#. Plugin Name of the plugin
+msgid "WowStore Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "It is a Pro version of the WowStore Gutenberg WooCommerce Blocks."
+msgstr ""
+
+#. Author of the plugin
+msgid "wpxpo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpxpo.com/"
+msgstr ""
+
+#: addons/backorder/backend.php:11
+#: addons/backorder/backend.php:34
+#: addons/backorder/backend.php:58
+#: addons/backorder/Backorder.php:90
+msgid "Backorder"
+msgstr ""
+
+#: addons/backorder/backend.php:12
+msgid "Keep getting orders for the products that are currently out of stock and will be restocked soon."
+msgstr ""
+
+#: addons/backorder/backend.php:38
+msgid "Backorder Settings"
+msgstr ""
+
+#: addons/backorder/backend.php:44
+#: addons/call_for_price/backend.php:45
+#: addons/cart_reserved/backend.php:41
+#: addons/preorder/backend.php:44
+#: addons/size_chart/backend.php:40
+#: addons/social_share/backend.php:40
+#: addons/sticky_cart/backend.php:40
+#: addons/stock_progress_bar/backend.php:44
+#: classes/Initialization.php:50
+msgid "Settings"
+msgstr ""
+
+#: addons/backorder/backend.php:52
+msgid "Enable Backorder"
+msgstr ""
+
+#: addons/backorder/backend.php:53
+msgid "Enable backorder on your website"
+msgstr ""
+
+#: addons/backorder/backend.php:57
+msgid "Backorder Label/Text"
+msgstr ""
+
+#: addons/backorder/backend.php:62
+msgid "Backorder Add to Cart Text"
+msgstr ""
+
+#: addons/backorder/backend.php:63
+#: addons/backorder/Backorder.php:91
+msgid "Backorder Now"
+msgstr ""
+
+#: addons/backorder/backend.php:67
+#: addons/backorder/Backorder.php:226
+#: addons/preorder/backend.php:73
+#: addons/preorder/Preorder.php:425
+msgid "Availability Message"
+msgstr ""
+
+#: addons/backorder/backend.php:68
+#: addons/preorder/backend.php:74
+msgid "Available On"
+msgstr ""
+
+#: addons/backorder/backend.php:75
+#: addons/call_for_price/backend.php:133
+#: addons/cart_reserved/backend.php:96
+#: addons/preorder/backend.php:86
+#: addons/size_chart/backend.php:120
+#: addons/social_share/backend.php:155
+#: addons/sticky_cart/backend.php:95
+#: addons/stock_progress_bar/backend.php:71
+msgid "Design"
+msgstr ""
+
+#: addons/backorder/backend.php:82
+#: addons/preorder/backend.php:93
+msgid "Available Label Typography"
+msgstr ""
+
+#: addons/backorder/backend.php:94
+#: addons/preorder/backend.php:105
+msgid "Duration Typography"
+msgstr ""
+
+#: addons/backorder/backend.php:106
+#: addons/preorder/backend.php:117
+msgid "Remaining Label Typography"
+msgstr ""
+
+#: addons/backorder/backend.php:118
+#: addons/preorder/backend.php:129
+msgid "Remaining Count Typography"
+msgstr ""
+
+#: addons/backorder/backend.php:130
+#: addons/preorder/backend.php:188
+msgid "Badge Typography"
+msgstr ""
+
+#: addons/backorder/backend.php:144
+#: addons/preorder/backend.php:202
+msgid "Badge Background"
+msgstr ""
+
+#: addons/backorder/backend.php:149
+#: addons/call_for_price/backend.php:155
+#: addons/call_for_price/backend.php:160
+#: addons/call_for_price/backend.php:233
+#: addons/call_for_price/backend.php:238
+#: addons/cart_reserved/backend.php:105
+#: addons/cart_reserved/backend.php:110
+#: addons/preorder/backend.php:148
+#: addons/preorder/backend.php:207
+#: addons/size_chart/backend.php:200
+#: addons/size_chart/backend.php:222
+#: addons/size_chart/backend.php:244
+#: addons/social_share/backend.php:187
+#: addons/social_share/backend.php:192
+#: addons/sticky_cart/backend.php:115
+#: addons/sticky_cart/backend.php:120
+#: addons/sticky_cart/backend.php:227
+msgid "Background Color"
+msgstr ""
+
+#: addons/backorder/backend.php:153
+#: addons/preorder/backend.php:211
+msgid "Badge Padding"
+msgstr ""
+
+#: addons/backorder/backend.php:163
+#: addons/preorder/backend.php:221
+msgid "Badge Border"
+msgstr ""
+
+#: addons/backorder/backend.php:171
+#: addons/preorder/backend.php:229
+msgid "Badge Border Radius"
+msgstr ""
+
+#: addons/backorder/Backorder.php:200
+msgid "WowStore Backorder Information"
+msgstr ""
+
+#: addons/backorder/Backorder.php:206
+#: addons/preorder/Preorder.php:405
+msgid "Available Quantity"
+msgstr ""
+
+#: addons/backorder/Backorder.php:210
+msgid "Enter the maximum amount of products available for backorder"
+msgstr ""
+
+#: addons/backorder/Backorder.php:216
+#: addons/preorder/Preorder.php:415
+msgid "Availability Date"
+msgstr ""
+
+#: addons/backorder/Backorder.php:220
+#: addons/backorder/Backorder.php:230
+msgid "Message indicating date and time of the backorder product availability"
+msgstr ""
+
+#: addons/backorder/Backorder.php:322
+#: addons/preorder/Preorder.php:651
+msgid "Remaining Item only: "
+msgstr ""
+
+#: addons/backorder/Backorder.php:402
+#: addons/partial_payment/PartialPayment.php:925
+#: addons/preorder/Preorder.php:800
+msgid "Order Type"
+msgstr ""
+
+#: addons/backorder/Backorder.php:439
+#: addons/backorder/Backorder.php:446
+msgid "Quantity Exceeded for Backorder Item."
+msgstr ""
+
+#: addons/call_for_price/backend.php:11
+#: addons/call_for_price/backend.php:34
+#: addons/call_for_price/backend.php:78
+#: addons/call_for_price/CallForPrice.php:113
+msgid "Call for Price"
+msgstr ""
+
+#: addons/call_for_price/backend.php:12
+msgid "Display a calling button instead of the Add to Cart button for the products that don't have prices."
+msgstr ""
+
+#: addons/call_for_price/backend.php:38
+msgid "Call for Price Settings"
+msgstr ""
+
+#: addons/call_for_price/backend.php:53
+msgid "Enable Call for Price"
+msgstr ""
+
+#: addons/call_for_price/backend.php:54
+msgid "Enable call for price on your website"
+msgstr ""
+
+#: addons/call_for_price/backend.php:58
+msgid "Type"
+msgstr ""
+
+#: addons/call_for_price/backend.php:60
+msgid "Phone Call"
+msgstr ""
+
+#: addons/call_for_price/backend.php:61
+#: addons/social_share/backend.php:64
+msgid "Skype"
+msgstr ""
+
+#: addons/call_for_price/backend.php:62
+msgid "Whatsapp"
+msgstr ""
+
+#: addons/call_for_price/backend.php:63
+msgid "Email"
+msgstr ""
+
+#: addons/call_for_price/backend.php:64
+msgid "Custom Link"
+msgstr ""
+
+#: addons/call_for_price/backend.php:72
+msgid "Recipient Number / ID / Email / Link"
+msgstr ""
+
+#: addons/call_for_price/backend.php:73
+msgid "<strong>Note:</strong> Add number with country code for direct calling and WhatsApp. Add ID for skype."
+msgstr ""
+
+#: addons/call_for_price/backend.php:77
+#: addons/size_chart/backend.php:80
+msgid "Button Text"
+msgstr ""
+
+#: addons/call_for_price/backend.php:79
+msgid "Write your preferable text to show on Call/Email For Price button"
+msgstr ""
+
+#: addons/call_for_price/backend.php:83
+msgid "Enable Icon in Button"
+msgstr ""
+
+#: addons/call_for_price/backend.php:85
+msgid "Enable call for price icon on your website"
+msgstr ""
+
+#: addons/call_for_price/backend.php:89
+msgid "Icon Position"
+msgstr ""
+
+#: addons/call_for_price/backend.php:93
+msgid "Before Text"
+msgstr ""
+
+#: addons/call_for_price/backend.php:94
+msgid "After Text"
+msgstr ""
+
+#: addons/call_for_price/backend.php:100
+msgid "Button Position On Single Product Page"
+msgstr ""
+
+#: addons/call_for_price/backend.php:102
+msgid "Below Product Title"
+msgstr ""
+
+#: addons/call_for_price/backend.php:103
+msgid "Below Short Description"
+msgstr ""
+
+#: addons/call_for_price/backend.php:104
+msgid "Below Meta"
+msgstr ""
+
+#: addons/call_for_price/backend.php:107
+msgid "Choose where will place Call/Email For Price button on single product page"
+msgstr ""
+
+#: addons/call_for_price/backend.php:111
+msgid "Show Button On Shop Page"
+msgstr ""
+
+#: addons/call_for_price/backend.php:113
+msgid "Enable Call/Email For Price button for shop page"
+msgstr ""
+
+#: addons/call_for_price/backend.php:117
+msgid "Show On All Products"
+msgstr ""
+
+#: addons/call_for_price/backend.php:119
+msgid "Enable Call/Email For Price for all products."
+msgstr ""
+
+#: addons/call_for_price/backend.php:123
+#: addons/sticky_cart/StickyCart.php:83
+msgid "Out Of Stock"
+msgstr ""
+
+#: addons/call_for_price/backend.php:125
+msgid "Enable Call/Email For Price for all out Of stock product."
+msgstr ""
+
+#: addons/call_for_price/backend.php:137
+msgid "Single Product Page Button Style"
+msgstr ""
+
+#: addons/call_for_price/backend.php:141
+#: addons/call_for_price/backend.php:219
+#: addons/social_share/backend.php:168
+msgid "Typography"
+msgstr ""
+
+#: addons/call_for_price/backend.php:166
+#: addons/call_for_price/backend.php:171
+#: addons/call_for_price/backend.php:244
+#: addons/call_for_price/backend.php:249
+msgid "Icon Color"
+msgstr ""
+
+#: addons/call_for_price/backend.php:175
+#: addons/call_for_price/backend.php:253
+#: addons/cart_reserved/backend.php:114
+#: addons/social_share/backend.php:201
+#: addons/sticky_cart/backend.php:124
+msgid "Padding"
+msgstr ""
+
+#: addons/call_for_price/backend.php:195
+#: addons/call_for_price/backend.php:273
+#: addons/cart_reserved/backend.php:119
+#: addons/social_share/backend.php:211
+msgid "Border"
+msgstr ""
+
+#: addons/call_for_price/backend.php:203
+#: addons/call_for_price/backend.php:281
+#: addons/cart_reserved/backend.php:128
+#: addons/size_chart/backend.php:174
+#: addons/social_share/backend.php:220
+msgid "Border Radius"
+msgstr ""
+
+#: addons/call_for_price/backend.php:215
+msgid "Shop Page Button Style"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:11
+msgid "Cart Reserved Timer"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:12
+msgid "Display a countdown timer and show a FOMO message once someone adds products to the cart."
+msgstr ""
+
+#: addons/cart_reserved/backend.php:34
+msgid "Cart Reserved Timer Settings"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:46
+msgid "Enable Cart Reserved"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:47
+msgid "Enable cart reserved on your website"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:54
+msgid "Countdown Duration Minutes"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:59
+msgid "Cart Reserved Message"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:64
+msgid "Timer Message"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:69
+msgid "What to do after the timer expires?"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:71
+msgid "Hide Timer"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:72
+msgid "Clear Cart"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:78
+msgid "Choose An Icon"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:133
+msgid "Message Typography"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:145
+msgid "Reserved Typography"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:159
+msgid "Timer Color"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:164
+msgid "Label Color"
+msgstr ""
+
+#: addons/cart_reserved/backend.php:168
+#: addons/size_chart/backend.php:140
+#: addons/social_share/backend.php:180
+msgid "Icon Size"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:11
+#: addons/currency_switcher/backend.php:40
+msgid "Currency Switcher"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:12
+msgid "It allows customers to switch product prices and make payments in their local currencies."
+msgstr ""
+
+#: addons/currency_switcher/backend.php:44
+msgid "Currency Switcher Settings"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:57
+msgid "Currency List"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:67
+msgid "Set as Default"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:73
+msgid "Currency"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:79
+msgid "Decimal"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:84
+msgid "Symbol Position"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:86
+#: addons/social_share/backend.php:140
+msgid "Left"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:87
+#: addons/social_share/backend.php:141
+msgid "Right"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:88
+msgid "Left Space"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:89
+msgid "Right Space"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:95
+msgid "Rate"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:102
+msgid "Exchange Fee"
+msgstr ""
+
+#: addons/currency_switcher/backend.php:109
+msgid "Payment Method Disables\t"
+msgstr ""
+
+#: addons/currency_switcher/Currency_Switcher.php:84
+msgid "Settings Data Saved..."
+msgstr ""
+
+#: addons/currency_switcher/Currency_Switcher_Admin_Action.php:52
+msgid "WowStore Pro Currency Switcher Addon is enabled. Set the default currency from "
+msgstr ""
+
+#: addons/currency_switcher/Currency_Switcher_Admin_Action.php:52
+msgid "Addon Setting page"
+msgstr ""
+
+#: addons/partial_payment/backend.php:11
+#: addons/partial_payment/backend.php:34
+#: addons/partial_payment/backend.php:52
+#: addons/partial_payment/PartialPayment.php:146
+#: addons/partial_payment/PartialPayment.php:205
+msgid "Partial Payment"
+msgstr ""
+
+#: addons/partial_payment/backend.php:12
+msgid "Split product prices into parts and let the customers place orders by paying only a deposit amount."
+msgstr ""
+
+#: addons/partial_payment/backend.php:38
+msgid "Partial Payment Settings"
+msgstr ""
+
+#: addons/partial_payment/backend.php:43
+msgid "Enable Partial Payment"
+msgstr ""
+
+#: addons/partial_payment/backend.php:44
+msgid "Enable partial payment on your website"
+msgstr ""
+
+#: addons/partial_payment/backend.php:51
+msgid "Partial Payment Label/Text"
+msgstr ""
+
+#: addons/partial_payment/backend.php:56
+msgid "Deposit/First Payment Text"
+msgstr ""
+
+#: addons/partial_payment/backend.php:57
+#: addons/partial_payment/PartialPayment.php:147
+msgid "First Payment"
+msgstr ""
+
+#: addons/partial_payment/backend.php:61
+msgid "Full Payment Text"
+msgstr ""
+
+#: addons/partial_payment/backend.php:62
+#: addons/partial_payment/PartialPayment.php:148
+msgid "Full Payment"
+msgstr ""
+
+#: addons/partial_payment/backend.php:66
+#: addons/partial_payment/backend.php:67
+#: addons/partial_payment/PartialPayment.php:149
+msgid "To Pay"
+msgstr ""
+
+#: addons/partial_payment/backend.php:71
+#: addons/partial_payment/backend.php:72
+#: addons/partial_payment/PartialPayment.php:150
+msgid "Paid"
+msgstr ""
+
+#: addons/partial_payment/backend.php:76
+msgid "Deposit Amount Text"
+msgstr ""
+
+#: addons/partial_payment/backend.php:77
+#: addons/partial_payment/PartialPayment.php:151
+#: addons/partial_payment/PartialPayment.php:1238
+msgid "Deposit"
+msgstr ""
+
+#: addons/partial_payment/backend.php:81
+#: addons/partial_payment/backend.php:82
+#: addons/partial_payment/PartialPayment.php:152
+#: addons/partial_payment/PartialPayment.php:1240
+msgid "Due Payment"
+msgstr ""
+
+#: addons/partial_payment/backend.php:88
+msgid "Deposit Paid Status"
+msgstr ""
+
+#: addons/partial_payment/backend.php:89
+msgid "Set order status when deposits are paid"
+msgstr ""
+
+#: addons/partial_payment/backend.php:93
+msgid "Disable Payment Methods\t"
+msgstr ""
+
+#: addons/partial_payment/DepositOrder.php:597
+msgid "Partial Payment amount:"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:153
+msgid "wc-completed"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:165
+#: addons/partial_payment/PartialPayment.php:1210
+msgid "Deposit Payments"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:166
+msgctxt "Admin menu name"
+msgid "Deposit Payments"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:168
+msgid "Deposit Payments List"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:259
+msgid "WowStore Partial Payment Information"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:265
+msgid "Enable/Disable"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:268
+msgid "Enable partial payment for this product"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:275
+msgid "Deposit Type"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:277
+#: addons/preorder/Preorder.php:467
+msgid "Select Type"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:278
+#: addons/preorder/Preorder.php:468
+msgid "Fixed"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:279
+#: addons/preorder/Preorder.php:469
+msgid "Percentage"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:283
+msgid "Set the deposit type"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:289
+msgid "Deposit Amount"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:293
+msgid "Enter first deposit amount"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:450
+msgid "We detect that in your cart already has deposit item. Please remove them before being able to add this product"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:455
+msgid "We detect that in your cart already has regular item. Please remove them before being able to add this product"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1039
+msgid "Deposit Order"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1040
+msgid "Date"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1041
+#: addons/partial_payment/PartialPayment.php:1162
+#: addons/partial_payment/PartialPayment.php:1228
+msgid "Status"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1042
+#: addons/partial_payment/PartialPayment.php:1229
+msgid "Total"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1043
+msgid "Parent Order"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1160
+#: addons/partial_payment/PartialPayment.php:1227
+msgid "Payment"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1161
+msgid "Payment ID"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1163
+msgid "Amount"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1164
+msgid "Action"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1191
+msgid "Make Payment"
+msgstr ""
+
+#: addons/partial_payment/PartialPayment.php:1226
+msgid "#"
+msgstr ""
+
+#: addons/preorder/backend.php:11
+msgid "Pre-Orders"
+msgstr ""
+
+#: addons/preorder/backend.php:12
+msgid "Display upcoming products as regular products to get orders for those not released yet."
+msgstr ""
+
+#: addons/preorder/backend.php:34
+#: addons/preorder/backend.php:64
+#: addons/preorder/Preorder.php:230
+msgid "Pre-order"
+msgstr ""
+
+#: addons/preorder/backend.php:38
+msgid "Pre-order Settings"
+msgstr ""
+
+#: addons/preorder/backend.php:52
+msgid "Enable Preorder"
+msgstr ""
+
+#: addons/preorder/backend.php:53
+msgid "Enable preorder on your website"
+msgstr ""
+
+#: addons/preorder/backend.php:57
+msgid "Disable Counter"
+msgstr ""
+
+#: addons/preorder/backend.php:59
+msgid "Enable switch if you want to hide counter."
+msgstr ""
+
+#: addons/preorder/backend.php:63
+msgid "Pre-order Label/Text"
+msgstr ""
+
+#: addons/preorder/backend.php:68
+msgid "Pre-order Add to Cart Text"
+msgstr ""
+
+#: addons/preorder/backend.php:69
+#: addons/preorder/Preorder.php:231
+msgid "Pre-order Now"
+msgstr ""
+
+#: addons/preorder/backend.php:78
+#: addons/preorder/Preorder.php:435
+msgid "Pre-Release Message"
+msgstr ""
+
+#: addons/preorder/backend.php:79
+msgid "Coming Soon"
+msgstr ""
+
+#: addons/preorder/backend.php:143
+msgid "Timer Background"
+msgstr ""
+
+#: addons/preorder/backend.php:152
+msgid "Time Typography"
+msgstr ""
+
+#: addons/preorder/backend.php:164
+msgid "Timer Label Typography"
+msgstr ""
+
+#: addons/preorder/backend.php:176
+msgid "Time Separator Typography"
+msgstr ""
+
+#: addons/preorder/Preorder.php:155
+msgid "For giving pre-order information please select Pre-Order Checkbox"
+msgstr ""
+
+#: addons/preorder/Preorder.php:172
+msgid "Preorder"
+msgstr ""
+
+#: addons/preorder/Preorder.php:190
+#: addons/preorder/Preorder.php:376
+msgid "Pre-Order"
+msgstr ""
+
+#: addons/preorder/Preorder.php:191
+msgid "If you want to set pre-order click here"
+msgstr ""
+
+#: addons/preorder/Preorder.php:378
+msgid "Enable pre-order for giving pre-order information"
+msgstr ""
+
+#: addons/preorder/Preorder.php:400
+msgid "WowStore Pre-order information"
+msgstr ""
+
+#: addons/preorder/Preorder.php:409
+msgid "Enter the maximum amount of products available for pre-order"
+msgstr ""
+
+#: addons/preorder/Preorder.php:419
+#: addons/preorder/Preorder.php:429
+msgid "Message indicating date and time of the pre-order product availability"
+msgstr ""
+
+#: addons/preorder/Preorder.php:439
+msgid "Enter a message if the pre-ordered product availability date and time are not given"
+msgstr ""
+
+#: addons/preorder/Preorder.php:447
+msgid "Auto Convert"
+msgstr ""
+
+#: addons/preorder/Preorder.php:450
+msgid "Enable conversion to default product after the pre-Order date and time is Over"
+msgstr ""
+
+#: addons/preorder/Preorder.php:456
+msgid "Manage Discount"
+msgstr ""
+
+#: addons/preorder/Preorder.php:465
+msgid "Discount Type"
+msgstr ""
+
+#: addons/preorder/Preorder.php:473
+msgid "Set the discount pricing type"
+msgstr ""
+
+#: addons/preorder/Preorder.php:479
+msgid "Discounted Price/Percentage"
+msgstr ""
+
+#: addons/preorder/Preorder.php:483
+msgid "Set the discounted price for the pre-order products"
+msgstr ""
+
+#: addons/preorder/Preorder.php:556
+#: addons/preorder/Preorder.php:605
+msgid "Pre-Order Closed"
+msgstr ""
+
+#: addons/preorder/Preorder.php:696
+msgid "Days"
+msgstr ""
+
+#: addons/preorder/Preorder.php:703
+msgid "Hours"
+msgstr ""
+
+#: addons/preorder/Preorder.php:710
+msgid "Minutes"
+msgstr ""
+
+#: addons/preorder/Preorder.php:717
+msgid "Seconds"
+msgstr ""
+
+#: addons/preorder/Preorder.php:904
+msgid "Quantity Exceeded for Pre-Order Item."
+msgstr ""
+
+#: addons/product_video/backend.php:11
+#: addons/product_video/frontend.php:11
+#: addons/product_video/ProductVideo.php:254
+msgid "Product Video"
+msgstr ""
+
+#: addons/product_video/backend.php:12
+#: addons/product_video/frontend.php:12
+msgid "Display product-featured videos instead of featured images and grab users' attention to specific products."
+msgstr ""
+
+#: addons/product_video/backend.php:34
+msgid "Product Video Settings"
+msgstr ""
+
+#: addons/product_video/backend.php:42
+msgid "Enable Product Video"
+msgstr ""
+
+#: addons/product_video/backend.php:43
+msgid "Enable product video on your website"
+msgstr ""
+
+#: addons/product_video/backend.php:47
+msgid "Show on Shop & Archive"
+msgstr ""
+
+#: addons/product_video/backend.php:49
+msgid "Show Video on Shop & Archive Page"
+msgstr ""
+
+#: addons/product_video/backend.php:53
+msgid "Show on Single Product Page"
+msgstr ""
+
+#: addons/product_video/backend.php:55
+msgid "Show video on Product Single Page"
+msgstr ""
+
+#: addons/product_video/backend.php:60
+msgid "Display"
+msgstr ""
+
+#: addons/product_video/backend.php:62
+msgid "Direct Video Embedded"
+msgstr ""
+
+#: addons/product_video/backend.php:63
+msgid "Icon On Image"
+msgstr ""
+
+#: addons/product_video/backend.php:66
+msgid "Select Display Type"
+msgstr ""
+
+#: addons/product_video/backend.php:70
+msgid "Icon"
+msgstr ""
+
+#: addons/product_video/backend.php:79
+msgid "Play Icon on Feature Image"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:286
+msgid "Youtube / Vimeo"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:290
+msgid "Media Library"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:294
+msgid "Video URL"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:301
+msgid "Note: Custom video frame size should be same as the featured image"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:304
+msgid "Gallery Image"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:312
+msgid "Note: Image size should be same as the featured image"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:316
+msgid "Position in Single Product Gallery"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:335
+msgid "Video Autoplay"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:339
+msgid "Video Repeat"
+msgstr ""
+
+#: addons/product_video/ProductVideo.php:343
+msgid "Play On Hover"
+msgstr ""
+
+#: addons/size_chart/backend.php:11
+#: addons/size_chart/SizeChart.php:83
+#: addons/size_chart/SizeChart.php:84
+#: addons/size_chart/SizeChart.php:106
+#: addons/size_chart/SizeChart.php:107
+#: addons/size_chart/SizeChart.php:420
+msgid "Size Chart"
+msgstr ""
+
+#: addons/size_chart/backend.php:12
+msgid "Create & display size charts to help the potential buyers make better buying decisions."
+msgstr ""
+
+#: addons/size_chart/backend.php:34
+msgid "Size Chart Settings"
+msgstr ""
+
+#: addons/size_chart/backend.php:48
+msgid "Enable Size Chart"
+msgstr ""
+
+#: addons/size_chart/backend.php:49
+msgid "Enable size chart on your website"
+msgstr ""
+
+#: addons/size_chart/backend.php:53
+msgid "Show Size Chart As"
+msgstr ""
+
+#: addons/size_chart/backend.php:56
+msgid "Pop Up"
+msgstr ""
+
+#: addons/size_chart/backend.php:57
+msgid "Additional Tab"
+msgstr ""
+
+#: addons/size_chart/backend.php:63
+msgid "Button Position"
+msgstr ""
+
+#: addons/size_chart/backend.php:66
+msgid "Before Add to Cart"
+msgstr ""
+
+#: addons/size_chart/backend.php:67
+msgid "After Add to Cart"
+msgstr ""
+
+#: addons/size_chart/backend.php:68
+#: addons/social_share/backend.php:125
+msgid "Before Meta"
+msgstr ""
+
+#: addons/size_chart/backend.php:69
+#: addons/social_share/backend.php:126
+msgid "After Meta"
+msgstr ""
+
+#: addons/size_chart/backend.php:90
+msgid "Tab Label Text"
+msgstr ""
+
+#: addons/size_chart/backend.php:100
+msgid "Choose Icon"
+msgstr ""
+
+#: addons/size_chart/backend.php:124
+msgid "Size Chart Button Style"
+msgstr ""
+
+#: addons/size_chart/backend.php:128
+#: addons/sticky_cart/backend.php:208
+msgid "Button Typography"
+msgstr ""
+
+#: addons/size_chart/backend.php:147
+#: addons/size_chart/backend.php:152
+#: addons/sticky_cart/backend.php:222
+msgid "Button Background"
+msgstr ""
+
+#: addons/size_chart/backend.php:156
+#: addons/sticky_cart/backend.php:231
+msgid "Button Padding"
+msgstr ""
+
+#: addons/size_chart/backend.php:166
+#: addons/sticky_cart/backend.php:241
+msgid "Button Border"
+msgstr ""
+
+#: addons/size_chart/backend.php:181
+msgid "Size Chart Table Style"
+msgstr ""
+
+#: addons/size_chart/backend.php:185
+msgid "Table Border"
+msgstr ""
+
+#: addons/size_chart/backend.php:195
+msgid "Heading Background"
+msgstr ""
+
+#: addons/size_chart/backend.php:206
+msgid "Heading Color"
+msgstr ""
+
+#: addons/size_chart/backend.php:211
+#: addons/size_chart/backend.php:233
+#: addons/size_chart/backend.php:255
+#: addons/sticky_cart/backend.php:166
+#: addons/sticky_cart/backend.php:186
+#: addons/stock_progress_bar/backend.php:109
+#: addons/stock_progress_bar/backend.php:120
+msgid "Color"
+msgstr ""
+
+#: addons/size_chart/backend.php:217
+msgid "Row(Even) Background"
+msgstr ""
+
+#: addons/size_chart/backend.php:228
+msgid "Row(Even) Color"
+msgstr ""
+
+#: addons/size_chart/backend.php:239
+msgid "Row(Odd) Background"
+msgstr ""
+
+#: addons/size_chart/backend.php:250
+msgid "Row(Odd) Color"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:81
+msgctxt "Post Type General Name"
+msgid "Size Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:82
+msgctxt "Post Type Singular Name"
+msgid "Size Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:85
+msgid "Size Chart Archives"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:86
+#: addons/size_chart/SizeChart.php:101
+msgid "Size Charts"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:87
+#: addons/size_chart/SizeChart.php:88
+msgid "Add New Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:89
+msgid "Edit Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:90
+msgid "Update Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:91
+msgid "View Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:92
+msgid "Search Size Charts"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:93
+msgid "Not found"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:94
+msgid "Not found in Trash"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:95
+msgid "Size chart Image"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:96
+msgid "Set size chart image"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:97
+msgid "Remove image"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:98
+msgid "Use as size chart image"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:99
+msgid "Insert into Size Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:100
+msgid "Uploaded to this Size Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:102
+msgid "Size Charts navigation"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:103
+msgid "Filter from charts"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:152
+msgid "Chart Table"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:160
+msgid "Assigning Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:179
+msgid "Title"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:180
+msgid "Content"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:190
+msgid "Table Heading Position"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:193
+msgid "Column"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:205
+msgid "Row"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:217
+msgid "Add Column"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:221
+msgid "Remove Column"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:251
+msgid "Add Row"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:255
+msgid "Remove Row"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:289
+msgid "Apply On All Products ?"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:293
+msgid "Assign Category"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:319
+msgid "Include Products"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:325
+msgid "Exclude Products"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:345
+msgid "Select Products List To Show Specific Product."
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:353
+msgid "Search for a product"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:451
+#: addons/size_chart/SizeChart.php:458
+msgid "Select Size Chart"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:477
+msgid "There is no chart available"
+msgstr ""
+
+#: addons/size_chart/SizeChart.php:482
+msgid "Create Chart"
+msgstr ""
+
+#: addons/social_share/backend.php:11
+msgid "Quick Social Share"
+msgstr ""
+
+#: addons/social_share/backend.php:12
+msgid "Display social share icons and let your shoppers share products with their social profiles instantly."
+msgstr ""
+
+#: addons/social_share/backend.php:34
+msgid "Social Share Settings"
+msgstr ""
+
+#: addons/social_share/backend.php:45
+msgid "Enable Social Share"
+msgstr ""
+
+#: addons/social_share/backend.php:46
+msgid "Enable social share on your website"
+msgstr ""
+
+#: addons/social_share/backend.php:53
+msgid "Select Share Item"
+msgstr ""
+
+#: addons/social_share/backend.php:54
+msgid "Select the item you want to display. To rearrange these fields, you can also drag and drop. You can also customize the label name according to your preferences."
+msgstr ""
+
+#: addons/social_share/backend.php:56
+msgid "Select Item"
+msgstr ""
+
+#: addons/social_share/backend.php:57
+msgid "Facebook"
+msgstr ""
+
+#: addons/social_share/backend.php:58
+msgid "Twitter"
+msgstr ""
+
+#: addons/social_share/backend.php:59
+msgid "Messenger"
+msgstr ""
+
+#: addons/social_share/backend.php:60
+msgid "LinkedIn"
+msgstr ""
+
+#: addons/social_share/backend.php:61
+msgid "Reddit"
+msgstr ""
+
+#: addons/social_share/backend.php:62
+msgid "Mail"
+msgstr ""
+
+#: addons/social_share/backend.php:63
+msgid "WhatsApp"
+msgstr ""
+
+#: addons/social_share/backend.php:65
+msgid "Pinterest"
+msgstr ""
+
+#: addons/social_share/backend.php:77
+msgid "Show Icon"
+msgstr ""
+
+#: addons/social_share/backend.php:79
+msgid "Show Default Icon with the Button."
+msgstr ""
+
+#: addons/social_share/backend.php:83
+msgid "Show Label"
+msgstr ""
+
+#: addons/social_share/backend.php:85
+msgid "Show Default Label with the Button."
+msgstr ""
+
+#: addons/social_share/backend.php:89
+msgid "Show Share Count"
+msgstr ""
+
+#: addons/social_share/backend.php:91
+msgid "Show Share Count in the Social Share."
+msgstr ""
+
+#: addons/social_share/backend.php:95
+msgid "Share Count Label"
+msgstr ""
+
+#: addons/social_share/backend.php:112
+msgid "Position Type"
+msgstr ""
+
+#: addons/social_share/backend.php:115
+msgid "Inside Element"
+msgstr ""
+
+#: addons/social_share/backend.php:116
+msgid "Sticky"
+msgstr ""
+
+#: addons/social_share/backend.php:122
+msgid "Inside Position"
+msgstr ""
+
+#: addons/social_share/backend.php:137
+msgid "Sticky Position"
+msgstr ""
+
+#: addons/social_share/backend.php:162
+msgid "Show Brand Color"
+msgstr ""
+
+#: addons/social_share/backend.php:164
+msgid "Show Brand Color in the Button."
+msgstr ""
+
+#: addons/social_share/backend.php:226
+msgid "Button Gap Between"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:11
+msgid "Sticky Add to Cart"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:12
+msgid "Make the Add to Cart Button Sticky on the top or bottom while shoppers scroll the product pages."
+msgstr ""
+
+#: addons/sticky_cart/backend.php:34
+msgid "Sticky Add to Cart Settings"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:45
+msgid "Enable Sticky Cart"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:46
+msgid "Enable sticky cart on your website"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:53
+msgid "Display Position"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:56
+msgid "Bottom"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:57
+msgid "Top"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:63
+msgid "Enable Review"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:64
+msgid "Enable review in sticky cart"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:69
+msgid "Enable Link in Title"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:70
+msgid "Enable link in title in sticky cart"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:75
+msgid "Display For Product Type"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:77
+msgid "Simple"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:78
+msgid "Variable"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:79
+msgid "Grouped"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:80
+msgid "External"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:86
+msgid "Hide on Mobile"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:88
+msgid "hide on mobile in sticky cart"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:99
+msgid "General Style"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:103
+msgid "Show After Scroll (Px)"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:108
+msgid "Max Container Width"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:136
+msgid "Product Details Style"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:140
+msgid "Title Typography"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:152
+msgid "Stock Status Typography"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:164
+msgid "Separator Color"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:170
+msgid "Rating Typography"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:181
+msgid "Rating Fill Color"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:192
+msgid "Button/Price Style"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:196
+msgid "Price Typography"
+msgstr ""
+
+#: addons/sticky_cart/backend.php:250
+msgid "Button Border Radius"
+msgstr ""
+
+#: addons/sticky_cart/StickyCart.php:81
+msgid "In Stock"
+msgstr ""
+
+#: addons/sticky_cart/StickyCart.php:85
+msgid "On Backorder"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:11
+#: addons/stock_progress_bar/backend.php:34
+msgid "Stock Progress Bar"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:12
+msgid "Visually highlight the total and remaining stocks of products to encourage shoppers to create FOMO."
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:38
+msgid "Stock Progress Bar Settings"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:52
+msgid "Enable Progress bar"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:54
+msgid "Enable stock progress bar on your website"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:58
+msgid "Total Sell Count Text"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:59
+msgid "Total Sold"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:63
+msgid "Available Item Count Text"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:64
+msgid "Available Item"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:78
+msgid "Label Typography"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:90
+msgid "Count Typography"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:104
+msgid "Progress Bar Color"
+msgstr ""
+
+#: addons/stock_progress_bar/backend.php:115
+msgid "Progress Bar Active Color"
+msgstr ""
+
+#: classes/Functions.php:114
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classes/Notice.php:58
+#: classes/Notice.php:90
+msgid "Activate WowStore"
+msgstr ""
+
+#: classes/Notice.php:58
+msgid "Install & Activate WowStore"
+msgstr ""
+
+#: classes/Notice.php:63
+#: classes/Notice.php:87
+msgid "Dismiss"
+msgstr ""
+
+#: classes/Notice.php:64
+#: classes/Notice.php:88
+msgid "Welcome to WowStore Pro."
+msgstr ""
+
+#: classes/Notice.php:65
+msgid "WowStore Pro is a block plugin. To use this plugins you have to install and activate WowStore."
+msgstr ""
+
+#: classes/Notice.php:89
+msgid "WowStore Pro is a Block plugin. To use this plugins you have to install and activate WowStore."
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:263
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:271
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:515
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:515
+msgid "Error"
+msgstr ""

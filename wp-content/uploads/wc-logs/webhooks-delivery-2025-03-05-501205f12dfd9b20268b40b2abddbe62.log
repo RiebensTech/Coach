@@ -1,0 +1,3170 @@
+2025-03-05T13:11:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 501c55614cddbd514773f220a3b96a0b
+            [Date] => Mar 5, 2025 @ 13:11
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.2442
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.0 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => NYaAEMsQiD9yOWmXdH6QtS4CnQcec8Tzl69+c29f4+0=
+                            [X-WC-Webhook-ID] => 16
+                            [X-WC-Webhook-Delivery-ID] => 501c55614cddbd514773f220a3b96a0b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 13:11:41 GMT
+                                    [x-amzn-trace-id] => Root=1-67c84d8d-089117c4165649d9718cc072;Parent=78935441ea3f4b68;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 3c1cc2e1-920b-4659-bed3-30af920b00ec
+                                    [x-amz-apigw-id] => G9EOIHYjIAMEBvQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 43244f77affffa1d8942dd025413b8d8.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => O47hG_i5D732z1BYHosRGE45j6FeA0UsPqccitUmfwF7F4eo6Mg0rA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T13:12:54+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 28409428231dfda55e0d97c2b4e0f562
+            [Date] => Mar 5, 2025 @ 13:12
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.43542
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.0 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => tqNUb46bmAjXztMmfOjcFyi9AEI2N1AMHai1AQXblbk=
+                            [X-WC-Webhook-ID] => 16
+                            [X-WC-Webhook-Delivery-ID] => 28409428231dfda55e0d97c2b4e0f562
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 13:12:54 GMT
+                                    [x-amzn-trace-id] => Root=1-67c84dd6-26d2501345d99fbd47f356c5;Parent=65fd8f1214b3dda9;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => dc243a2a-6b45-40e3-88d8-6de3d54531e5
+                                    [x-amz-apigw-id] => G9EZiEeMoAMEl7w=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 aa4673eb0527fb06f7940307fecfc1b6.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => AZhsd2giRFyYrRP-XxPs1j-4Sir7v5-ghEsYnIrIFP8cyk7IZB0hyg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:23:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f433f8fce3dcb0748057c505d477b7ef
+            [Date] => Mar 5, 2025 @ 20:23
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.31205
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => p2eu9IclyZSPJS3GpnFro3GyJpGV0wkHuYi6HQ6AT/U=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => f433f8fce3dcb0748057c505d477b7ef
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:23:42 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b2ce-0923423c3c0c3daf63db8204;Parent=3dac81f3e05ea648;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 9fdd985b-59af-4828-b5c6-473192d1ab5e
+                                    [x-amz-apigw-id] => G-DgTH3MIAMEfSQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 83f879b9257b55a619d0b5d3165412a6.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => tQnINLYtj2kBpweWg9v2nC9Y5DFiSgRHlRz-TcAWDDX4G2TpK7GWOw==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:45+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ac3265d8b7720af2d8869671274d2c7a
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.36231
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => L7MYuAMxE4hRloDpyOVD24mU3GxJIHwtNZXxKat2+GA=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => ac3265d8b7720af2d8869671274d2c7a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:24:45 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b30c-23f2b801380a7ac70aa23fe1;Parent=7bc1157a77812718;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 61e4af17-634f-4cec-b811-5fa3b5359ab0
+                                    [x-amz-apigw-id] => G-DqFGOaIAMEXgQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 133ff3be92540995db4a7234eada8b80.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => 1CDBYNx6-oGy8lZTIJTrQUWGoD9I8BlhTd9N0-KOLHijj7TQwAratg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 78703f574cd610a5b1513b0e42d5b75b
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://saas.peacherp.com/PEACHWEB_WEB/UK/KineticCommerce/wc-peachwebhook.awp
+            [Duration] => 0.9212
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => zqwrUuWVx+6Xo5Y784muuiVjPTHD9IK7PZmY9Uvb40Y=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 78703f574cd610a5b1513b0e42d5b75b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => no-cache
+                                    [pragma] => no-cache
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-encoding] => gzip
+                                    [expires] => Thu, 01 Dec 1998 16:00:00 GMT
+                                    [vary] => Accept-Encoding
+                                    [server] => Microsoft-IIS/10.0
+                                    [date] => Wed, 05 Mar 2025 20:24:45 GMT
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f0cffc70b17b919c4947ca8a610298fb
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=f22cff93-8915-416d-bdd7-1553e529219c
+            [Duration] => 0.54665
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => NICyZKqLL5ddRrwt/ETv8HIqhW+HcsyprLfasE6Y6ws=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => f0cffc70b17b919c4947ca8a610298fb
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:24:46 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 79a69225-5572-4e33-8b91-83319c12d714
+                                    [bob-go-request-id] => 79a69225-5572-4e33-8b91-83319c12d714
+                                    [apigw-requestid] => G-DqUgxlCfMEMeQ=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 63018df700e3aef14f39b43e0473b17a
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.29179
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => L7MYuAMxE4hRloDpyOVD24mU3GxJIHwtNZXxKat2+GA=
+                            [X-WC-Webhook-ID] => 12
+                            [X-WC-Webhook-Delivery-ID] => 63018df700e3aef14f39b43e0473b17a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:24:46 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b30e-03f875fb1ffe501846745921;Parent=325297d25ffa2ed5;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => a90c08b4-abaf-4727-a0d1-ea0a7b271a40
+                                    [x-amz-apigw-id] => G-DqWFUDoAMEqbQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 38f2daae6c849ed5f695333a9d4104ae.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => _ufqM_eIb2q53E9W3lBK3KgigHFQawYsyGWiE9niAgBFoKRP64rWbA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 95abf8c232213c02bb12866e78856e82
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=f22cff93-8915-416d-bdd7-1553e529219c
+            [Duration] => 0.49773
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => DoXa3YhZ1bLGSw8tYZuHtbxhfOKIPqs9W0BG0ezaZdk=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 95abf8c232213c02bb12866e78856e82
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:24:47 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 44cd7cc0-fbf3-4abd-9c79-e0f28911aff3
+                                    [bob-go-request-id] => 44cd7cc0-fbf3-4abd-9c79-e0f28911aff3
+                                    [apigw-requestid] => G-DqcgykifMEMtg=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 423730f80af37fdcf25d973373f4a21a
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.28428
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => hgQz9b0Kza1+1ebF3rS1zfO8dbyNoxmheXx8Y85lyp8=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 423730f80af37fdcf25d973373f4a21a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:24:47 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b30f-516e9d46317877f56863c7f0;Parent=3fd6972a36a54c10;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 9cac6770-ab60-48cb-828d-dfd0b69f4383
+                                    [x-amz-apigw-id] => G-DqfGCtIAMES-g=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 ebf31a208b1563522327c20ddd946a5c.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => tTqi53KOhB3a1V7OioaWHeNJ6iXqzEMN3drDx3MGDa08QOEKOE69dw==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 423730f80af37fdcf25d973373f4a21a
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.50903
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => wx5tKYkbKfrJJSEOgm4ZFY1F3P3sjnlz8g5FnTP3gH8=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 423730f80af37fdcf25d973373f4a21a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:24:48 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b310-3d518e1552b04b5a1bc39903;Parent=681bc61ee278a8f8;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => e4c0e65a-d5c4-48a0-aa09-40144527c1bd
+                                    [x-amz-apigw-id] => G-DqkGkeoAMECeQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 fe1df26b55e8c12763613686df86f7f2.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => BV-31RVEOvhqkedRvkQ61vV8gi2VGxT5h2fE7lieNdTZ9G5wlq9syg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:24:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7ce37bf199734a608cc0ee370e29c068
+            [Date] => Mar 5, 2025 @ 20:24
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.26365
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => yJWTLXblGBb7bsjo7Z5HmcgE4e2LOVgayeW8ionGF4I=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 7ce37bf199734a608cc0ee370e29c068
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:24:48 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b310-06a7074750b9597a2cdfd9be;Parent=61697b320fb832ff;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 8ebe9645-315d-4e39-a584-2bb179e24dc4
+                                    [x-amz-apigw-id] => G-DqnGg-IAMEojA=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 80b00aa2dcc58ca61b2465a37c89fc92.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => 46AagpoGq8bUe0iBEshfX8rraOcijGXLw123pvLQaIvW-qoLY2kF-g==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:33:33+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4288b43763aa4cc50227b931d23ca142
+            [Date] => Mar 5, 2025 @ 20:33
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.30192
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => uIXTEeJsQEOpqGQ6Qyer1D2hXHovXNijwWN/InzT+84=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 4288b43763aa4cc50227b931d23ca142
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:33:33 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b51d-7bc8a31757d51f053f0b3656;Parent=026ab1aca7e06c47;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => c372f20d-02af-4c45-be6e-9e9e4c326063
+                                    [x-amz-apigw-id] => G-E8sHj-IAMEOfQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 133ff3be92540995db4a7234eada8b80.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => KJE6ulCjM9VonKjzTiWsc_dW9n8HehTQMCcUXjVZVrN4brn2YEpFHg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:34:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c11c62acc75823daad6d2ac8b50856
+            [Date] => Mar 5, 2025 @ 20:34
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.20575
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => KG/9S3BP0dqceY+blp0H6n1Z2UeaolYs/mEJdkyAp/Y=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 08c11c62acc75823daad6d2ac8b50856
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:34:29 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b555-01565e2c53a45f4430c84267;Parent=3a38985fb8a02e30;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 29409dc3-e37f-4779-9363-2f957cc16f3f
+                                    [x-amz-apigw-id] => G-FFXGEmIAMEduA=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 6af229f397d391cfa25045f944cba714.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => o6RvVqLuDrMDgW_k0-UMvl2RCaDBhxnuLLUau4T4Nv7SseR17Gy9bA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:34:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c11c62acc75823daad6d2ac8b50856
+            [Date] => Mar 5, 2025 @ 20:34
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.27984
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => EamSivxM3/8loYhf1yxBH40KmQ9kYVnLzp4+VHinSDs=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 08c11c62acc75823daad6d2ac8b50856
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:34:29 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b555-096c3c464b5057f7376893fd;Parent=2a2464295ec6d6a1;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => e8502da1-49b3-4d4c-975f-7ee5e7def06c
+                                    [x-amz-apigw-id] => G-FFZGQZoAMEXUw=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 d51f8b07f1cd9f6dbf62bb0b0c961f1c.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => QDz9EgJtvM3OKM9vMFdkJ60hUHuSpH84MuSEhgdzbTZ9IOeinAWSQQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:34:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c11c62acc75823daad6d2ac8b50856
+            [Date] => Mar 5, 2025 @ 20:34
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.25546
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => IA/AIHwtolAYQYUBFmGNZNUQRLM6wGz1owGTSMSusR4=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 08c11c62acc75823daad6d2ac8b50856
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:34:29 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b555-6d5aa6bf5d66517b36a29753;Parent=462bebf897ec6e25;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 40ae1d29-0656-4255-95c8-b0c39f788049
+                                    [x-amz-apigw-id] => G-FFcELOIAMEEcg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 343f10c14a24beceec4fd2e9df6f9a50.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => gIn-YGXzSDL15ETbbhNFTuC4yHn4d4TsWZUA4a7n1OvQN5DZyifpFg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c97522dbb459b1144e220a3495c15d1d
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.76799
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => UYdjQy1rzeWhVrRgZgWLwFQCUaKC15tC4eQtTRJShpo=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => c97522dbb459b1144e220a3495c15d1d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:37:08 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 200f3916-d6db-4494-bfd6-a07a49b0e837
+                                    [bob-go-request-id] => 200f3916-d6db-4494-bfd6-a07a49b0e837
+                                    [apigw-requestid] => G-FeOiHWifMEM_Q=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 8771fe3e4601eec2c84a430eec741590
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.29473
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 4FPL20kV9MPvVRoVlhhWZkeXCoVyeRWQssDcwF+cZ1I=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 8771fe3e4601eec2c84a430eec741590
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:37:08 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b5f4-0c7709d06cc65d1660db6569;Parent=0156194af5b93174;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 41762c18-568a-46b6-b460-d660627041d2
+                                    [x-amz-apigw-id] => G-FeRHMmoAMEDVw=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 13c8b9a0a39ad1238a922185ad5547fc.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => RGJ488U2hMifbpCaeE0_700YHWnBtLOSULtswP9GEfi3-R7AENThbg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:09+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a3242ae32ef963bd70e718bce06e221f
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://saas.peacherp.com/PEACHWEB_WEB/UK/KineticCommerce/wc-peachwebhook.awp
+            [Duration] => 0.85496
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => bAaqxU7R2/1M4tmrZb0FSjmz6zZD4dKrY9dam9BgOVs=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => a3242ae32ef963bd70e718bce06e221f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => no-cache
+                                    [pragma] => no-cache
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-encoding] => gzip
+                                    [expires] => Thu, 01 Dec 1998 16:00:00 GMT
+                                    [vary] => Accept-Encoding
+                                    [server] => Microsoft-IIS/10.0
+                                    [date] => Wed, 05 Mar 2025 20:37:08 GMT
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:10+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c77a47d71d22ae865637e753c4c80b1a
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.52921
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => q7f2m6myPaw3AVOThOQk5EigtgKD6csNZxI6oquDazI=
+                            [X-WC-Webhook-ID] => 27
+                            [X-WC-Webhook-Delivery-ID] => c77a47d71d22ae865637e753c4c80b1a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:37:10 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 5025656b-6335-497d-9de7-62b5312ed37b
+                                    [bob-go-request-id] => 5025656b-6335-497d-9de7-62b5312ed37b
+                                    [apigw-requestid] => G-FefjXyCfMEMzg=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:10+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 6257e82e410b904c405d4b7341a4eb62
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.29764
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 4FPL20kV9MPvVRoVlhhWZkeXCoVyeRWQssDcwF+cZ1I=
+                            [X-WC-Webhook-ID] => 12
+                            [X-WC-Webhook-Delivery-ID] => 6257e82e410b904c405d4b7341a4eb62
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:37:10 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b5f6-37c8f7ef3c7b2a9071bab2ed;Parent=2a65b0b4d93b435d;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 81f12dcb-40ad-4789-9f21-6b94301afa9e
+                                    [x-amz-apigw-id] => G-FeiHBtIAMEOfQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 503c2bd0b7e26f747c58a5188346ef54.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => rmLvLKRLoOcdIY-bTYrS6Z18oY5iZ1oF70mBcW1pF--99Ii7H2UgPg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:10+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9319fd480cd67cfd734516a1f5cc9ab3
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.27826
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => tk9gc5B4H9Q/k/Jkf5VEvDrcq2KzO3kZ1woilizZolk=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 9319fd480cd67cfd734516a1f5cc9ab3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:37:10 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b5f6-5d12e2cc52ddfdd46f66e269;Parent=0b4134fd069a53a0;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => d8d481d0-58aa-4103-846a-dd88684dda0e
+                                    [x-amz-apigw-id] => G-FelHDMIAMEaxg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 a7089858ca46e4593c8301dd0b1a2cd2.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => StlMB5TGm-g-vaQlP8rjy31KEGMY9BwwjnbfEfsUEMVtuk8cOHSS7g==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:10+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9319fd480cd67cfd734516a1f5cc9ab3
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.26026
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => /YWOyKnJxCxIvGCYfqUbF+uMRyWxckiNXf9c3dp50f4=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 9319fd480cd67cfd734516a1f5cc9ab3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:37:10 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b5f6-046a2c6c5112bff23f77e2f5;Parent=6f2ed7d38acce4c3;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => c7213133-9720-45c1-8a57-bc5c881f2dea
+                                    [x-amz-apigw-id] => G-FeoEK7IAMETCg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 172c1df55a41f1a1b144f3711399cfc4.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => sDz0_bHt2PtRpo9M1WCL3C7tt9bkN4WIpGwPpSpWiDnbfLW9ohz7bg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:37:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9319fd480cd67cfd734516a1f5cc9ab3
+            [Date] => Mar 5, 2025 @ 20:37
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.24278
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => fp2N6vrqcafiYRhxiwdl8wJsVnNrLcWVry5jjBwW61c=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 9319fd480cd67cfd734516a1f5cc9ab3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:37:11 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b5f7-4b49c9f9634d0e1c19aacc37;Parent=43cad9da227bb3b2;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 805712f4-c456-4dda-809d-b0ce1eaf1159
+                                    [x-amz-apigw-id] => G-FeqEwroAMEfOQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 e53a38d449135904e00f29f17c559950.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => KJQYANV_l36x-G3LR1x2SaHIuLc_HZsxU6CGWEOWlQ-zljZWJBi-6g==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7da9719f47a329cdd0580b1e096bd707
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.46736
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => 8LT7lR4jrbf3OIBmDF4MBgmTuILhuL0B/jKZlu/psXQ=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 7da9719f47a329cdd0580b1e096bd707
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:17 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b7dd-23acfb9f5dfc794f2eeaaeed;Parent=72e19a2fa3e76e46;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 6e62e0f5-ee0a-452a-b862-48b5e1a6f9a4
+                                    [x-amz-apigw-id] => G-GqoEKWIAMEGTA=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 43244f77affffa1d8942dd025413b8d8.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => YRMSDHBECIO_SdVdxAQkNvkMEqD7xqA1DSumugzXr8wCjlIuaFOohA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 964f35653e23d7782f368603b216e02b
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.64053
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => pyboSDANCAolDHclnlJN41GgKS3S1SvaVb9nF4IEe3E=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => 964f35653e23d7782f368603b216e02b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:45:23 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => b0bda318-afe5-44be-9011-b0d4dacc5666
+                                    [bob-go-request-id] => b0bda318-afe5-44be-9011-b0d4dacc5666
+                                    [apigw-requestid] => G-GrjjbRCfMEMeQ=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ecd47c9e9fbef125af292130be9d0fe1
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.26514
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => VwVKIUTrotMkfEaZuCxqP0HdtFMUiMMVG/1EEHYOzQs=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => ecd47c9e9fbef125af292130be9d0fe1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:23 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b7e3-2f59d9143cc8201a3ead139c;Parent=03d779ec05d8db23;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 2e3682cf-357a-4c9e-b423-f71509c0e4b1
+                                    [x-amz-apigw-id] => G-GrmEKLoAMEvYQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 2809edb23da5b1de8a640a251efb8608.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => olALMTJ2DrL1O9emGTD2OrvHnUSnC8acR_Ll3Rnbl6Wjt5izK3j7ww==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f69ef7f53b1ab6d9406eadebc1038613
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://saas.peacherp.com/PEACHWEB_WEB/UK/KineticCommerce/wc-peachwebhook.awp
+            [Duration] => 0.81422
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => GNbhDcXVn4S27WQRxEqHachAHGPIBEMAv0nW/G64TvE=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => f69ef7f53b1ab6d9406eadebc1038613
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => no-cache
+                                    [pragma] => no-cache
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-encoding] => gzip
+                                    [expires] => Thu, 01 Dec 1998 16:00:00 GMT
+                                    [vary] => Accept-Encoding
+                                    [server] => Microsoft-IIS/10.0
+                                    [date] => Wed, 05 Mar 2025 20:45:23 GMT
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 17fd25adb101026f22b32743d4380e50
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.51994
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => rY1SKlt6gR5MV5lzhJvgwCETgBa/WXbfQ9IiSCiYJfk=
+                            [X-WC-Webhook-ID] => 27
+                            [X-WC-Webhook-Delivery-ID] => 17fd25adb101026f22b32743d4380e50
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:45:24 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 877a4a52-3a2c-45b8-9628-a5d795b4f5e1
+                                    [bob-go-request-id] => 877a4a52-3a2c-45b8-9628-a5d795b4f5e1
+                                    [apigw-requestid] => G-Gr0igTifMEMtQ=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:25+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 8ac43772ced651a0dccca4d464752163
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.43172
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => VwVKIUTrotMkfEaZuCxqP0HdtFMUiMMVG/1EEHYOzQs=
+                            [X-WC-Webhook-ID] => 12
+                            [X-WC-Webhook-Delivery-ID] => 8ac43772ced651a0dccca4d464752163
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:25 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b7e5-1ca22b531ef098265fb196ab;Parent=05916d4aaaac4152;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 9c7e173a-47ee-4f0d-82e8-45d2eb74a7d1
+                                    [x-amz-apigw-id] => G-Gr4G7NoAMEuYw=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 3c07e6ef6fe5c74a2c43590885d64f70.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => iGp7hXKxJyDnaFYRYy40WR83Wb4nmhgbYGZUIrb45yGU5zRJ_5yt3g==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ed469500dab5c56354c96322f9e88875
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.7112
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => nzoiVUyAseVKCz2jeUJLNcxEj0YGqAzfBZI2HTd3xoE=
+                            [X-WC-Webhook-ID] => 28
+                            [X-WC-Webhook-Delivery-ID] => ed469500dab5c56354c96322f9e88875
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:45:56 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 03545e31-6098-41a2-9ab5-332be2f96dfb
+                                    [bob-go-request-id] => 03545e31-6098-41a2-9ab5-332be2f96dfb
+                                    [apigw-requestid] => G-GwthCrifMEMGA=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a6c83e401bb646c5f3b1bd0f9ef23cd7
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.42553
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => UDaGwRbYdkB7lwRByeVfBMNXxCGNYIgrEyhpMLPcLs8=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => a6c83e401bb646c5f3b1bd0f9ef23cd7
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:56 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b804-012ad4687fee065f51a34140;Parent=420b957fb32907ae;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => fd36c569-5b72-4fc6-ae91-531b3c5cfa7f
+                                    [x-amz-apigw-id] => G-GwxE8OIAMEu0g=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 fe1df26b55e8c12763613686df86f7f2.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => yc7uvVQ983rtE7OllYBKWsn03RN8rE3DnHRTx4hnLQakpDpJpmQoXQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d51fb0cdc181272c8c4f3f3cc66c9b35
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://saas.peacherp.com/PEACHWEB_WEB/UK/KineticCommerce/wc-peachwebhook.awp
+            [Duration] => 0.82925
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => Pn1fYCGpepKgudO1LHfSKTeyQIdTxCy2L8ZLUmpaH5s=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => d51fb0cdc181272c8c4f3f3cc66c9b35
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => no-cache
+                                    [pragma] => no-cache
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-encoding] => gzip
+                                    [expires] => Thu, 01 Dec 1998 16:00:00 GMT
+                                    [vary] => Accept-Encoding
+                                    [server] => Microsoft-IIS/10.0
+                                    [date] => Wed, 05 Mar 2025 20:45:57 GMT
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bb153106dedc7f93f5c8e2dba5d84549
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.45903
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => eBu7aN/oKkuvPEFp/7LeH/Dr5/N/RF/HcYqy1vP+Kws=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => bb153106dedc7f93f5c8e2dba5d84549
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:57 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b805-0eb4666b0a6f9cb0597529ea;Parent=7302a6278f937ae7;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 4c2b0003-81ef-4e41-8f22-a02e07db79a8
+                                    [x-amz-apigw-id] => G-Gw-GNeIAMEXag=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 38f2daae6c849ed5f695333a9d4104ae.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => GT1I6TrgU2xsATISS6zFaC6vctsRZMALjywK85Ku0QTML9qvteQiKQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0e365195383432b6868c3f24d05724f8
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.44558
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => GRya04055csN4nDpGTszvvXljDrjKoFwtqP1BxI6Sm8=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 0e365195383432b6868c3f24d05724f8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:58 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b806-6d7284a44ad9b4c122a14627;Parent=6eb93764d32e6f74;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 6af26573-794c-4a3f-b28f-35d144de3d6b
+                                    [x-amz-apigw-id] => G-GxDHa3IAMEudQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 7ccd3c44ed70cdb4cd40f0ff29b1254c.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => eyFYZajGT79UOp7Xs0-jBXuc28ObKet9svIxgVu027N2tkSGzLvjVQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:45:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0e365195383432b6868c3f24d05724f8
+            [Date] => Mar 5, 2025 @ 20:45
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.19091
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => Wvoa3xqcemYF1AlOVPg75Xr0RoTEfBjMFcC3HYAVsRw=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 0e365195383432b6868c3f24d05724f8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 20:45:58 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8b806-6e904d0e5e96b0dc514e55b0;Parent=03f184496ee9fb7e;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => a5b7215b-a428-454a-9a2a-ae915dba55c5
+                                    [x-amz-apigw-id] => G-GxFFoLoAMEf4A=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 80b00aa2dcc58ca61b2465a37c89fc92.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => tNNEbL4zHLDklLAQSj8FHFAS9Xhm_1PZSHMfR9DiRJXPzeB9xPC3HA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T20:58:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 50950f7a17efff975daf243137cf17df
+            [Date] => Mar 5, 2025 @ 20:58
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.5099
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.woocommerce_settings_saved
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => woocommerce_settings_saved
+                            [X-WC-Webhook-Signature] => P+QpA5eyy+JgnojNTFpfPmAGNKLihzpTMyuPvqZstwc=
+                            [X-WC-Webhook-ID] => 33
+                            [X-WC-Webhook-Delivery-ID] => 50950f7a17efff975daf243137cf17df
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 20:58:56 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [bob-go-request-id] => c68aef94-60c4-4cb0-9d42-8e77328f341a
+                                    [x-request-id] => c68aef94-60c4-4cb0-9d42-8e77328f341a
+                                    [apigw-requestid] => G-Iqsj3DCfMEJRg=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:10:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3418ee5accb55654e2d1f1f5a3da1819
+            [Date] => Mar 5, 2025 @ 21:10
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.42576
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => g+7dRRugfs21Yx5jPZmMGF4EnQcsF6MdZgtsTP9TvrM=
+                            [X-WC-Webhook-ID] => 17
+                            [X-WC-Webhook-Delivery-ID] => 3418ee5accb55654e2d1f1f5a3da1819
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:10:47 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8bdd7-1ff5d7277fa8d7313a81f8a2;Parent=43c13198e59ae55b;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 6c425e10-345d-4126-b381-21fbff32f840
+                                    [x-amz-apigw-id] => G-KZwF7SIAMEbzA=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 ea1aadbeedf1001a86f79fc729fb39e0.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => dxN_MXNIagJPFSIraTivL6NUdoPwRVxQPP17iHN6EdHaBPDV9zeIdA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:11:54+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 67eb186c96d500cd135c24b541121765
+            [Date] => Mar 5, 2025 @ 21:11
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.23436
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => x7dsCZ485tNdAUGApdnoDaxENiDy/6vFhbbGBmHe0os=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 67eb186c96d500cd135c24b541121765
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:11:54 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be1a-33311cd52fd9a0d551331454;Parent=232d3c0fc55b9433;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => ac9331de-f263-458b-91d9-79f365a638ae
+                                    [x-amz-apigw-id] => G-KkQFBIIAMEaxg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 d6f0ad3267f72bf9b59a5eb61f811fe2.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => qfPxiPy4eREgZWHGOOOs0TILnA3FkB7LqNNLCN2K6am98QSdNhtwSQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:11:55+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a4c21eff0ca9653c33c3b7f9667e714f
+            [Date] => Mar 5, 2025 @ 21:11
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.24672
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => W0ddJYr6ggEsCXATyH6ZauORuq9/F+2vdB+zU2ccHJ0=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => a4c21eff0ca9653c33c3b7f9667e714f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:11:55 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be1b-4499b1990a25b9222705bbca;Parent=4b06d2939bb320b2;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 8036e449-931c-4d7f-ab6b-03f12faaf4fd
+                                    [x-amz-apigw-id] => G-KkTGyuoAMEf2g=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 13c8b9a0a39ad1238a922185ad5547fc.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => 0WAHuub03Sd5QkwbFYv2mZmUmcwWtH2S30Huj_C_c6IqkjhRuOM3kA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:11:55+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a4c21eff0ca9653c33c3b7f9667e714f
+            [Date] => Mar 5, 2025 @ 21:11
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.26084
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => CPzZ0CC/WszbHmyOFCYU5KPjedbKulQYgU05UiYfsmA=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => a4c21eff0ca9653c33c3b7f9667e714f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:11:55 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be1b-3d7d13906e3648cc37eaff43;Parent=6f865c615c8bf080;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => e33a5d5b-f387-4917-9a25-a8abdc343147
+                                    [x-amz-apigw-id] => G-KkVGGmoAMEEvg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 43244f77affffa1d8942dd025413b8d8.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => voBszUBH2MNSYoLQ9tCpqW-V5oJ_WlgW1pns4MwSBSHgY5xjELKJGA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:12:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => efeb80e39e0c6b1ababe4a519fba470d
+            [Date] => Mar 5, 2025 @ 21:12
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.51775
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 8Kn3MfQq/DjHtge1jG3qW5TJwggbEecXRgIZmJlnA8Y=
+                            [X-WC-Webhook-ID] => 17
+                            [X-WC-Webhook-Delivery-ID] => efeb80e39e0c6b1ababe4a519fba470d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:12:41 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be49-6d3d844331892a486b2953af;Parent=3030661f6cbdafaa;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 9b4a4ca7-6126-42f0-935f-fd1929d42d41
+                                    [x-amz-apigw-id] => G-KrmGwWIAMEXww=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 9a97e41242551c9a56be1311e4d3db70.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => UXRy3r2PRnVZiDsaHpsjwq6bnMRXHcA-IJmKZ--RW_LznQJXHubHBA==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 65552b937b11af898ccfb85681aad484
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.62926
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => i3PC3Qv1YWjK6esUtPPQZlceIuOZcBnP87/TIyeF/pA=
+                            [X-WC-Webhook-ID] => 43
+                            [X-WC-Webhook-Delivery-ID] => 65552b937b11af898ccfb85681aad484
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 21:13:42 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => b6c80e66-f6aa-4368-942d-2fdb97920a58
+                                    [bob-go-request-id] => b6c80e66-f6aa-4368-942d-2fdb97920a58
+                                    [apigw-requestid] => G-K1AgzqCfMEMWA=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 2417bc7b4d6b6b5f895162d1f0e561e5
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.27457
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => phyJ/6nhhJeDgZ90sVLgrymdAsqQMRYOMO1id88gCVc=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 2417bc7b4d6b6b5f895162d1f0e561e5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:13:42 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be86-135c166e1c6d1ca94900f304;Parent=7bb704ae868c650a;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 900a63c6-c916-4d9d-a3f7-76cf43665b1a
+                                    [x-amz-apigw-id] => G-K1DGNRIAMEBvQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 c8ad942d9a5a20a8da22d39de4142f78.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => _2dP0aHRDTA8fwOm-rWBITLVEP7Q0nY89ehtp8CJcR3gDQuHOwglvg==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fc200e7542089e8a526385c769b09693
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://saas.peacherp.com/PEACHWEB_WEB/UK/KineticCommerce/wc-peachwebhook.awp
+            [Duration] => 0.83667
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => ozL6Jo4QDhFHAg+FI9aaW15dbF1t3pzA7wgu7aU5/r0=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => fc200e7542089e8a526385c769b09693
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => no-cache
+                                    [pragma] => no-cache
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-encoding] => gzip
+                                    [expires] => Thu, 01 Dec 1998 16:00:00 GMT
+                                    [vary] => Accept-Encoding
+                                    [server] => Microsoft-IIS/10.0
+                                    [date] => Wed, 05 Mar 2025 21:13:43 GMT
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 69ebcebe331ae3e3e1d4c6753278d09f
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.5115
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => FHOpaLALzSAXNbj7octAyFwfzI+3ETevzXNkqK4DiQI=
+                            [X-WC-Webhook-ID] => 42
+                            [X-WC-Webhook-Delivery-ID] => 69ebcebe331ae3e3e1d4c6753278d09f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 21:13:43 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 3bb5383d-247a-4058-a6db-73be34281ea5
+                                    [bob-go-request-id] => 3bb5383d-247a-4058-a6db-73be34281ea5
+                                    [apigw-requestid] => G-K1RhReifMEMyA=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bce480a37ae2dc52bdc693e0d42671ae
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.31058
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => phyJ/6nhhJeDgZ90sVLgrymdAsqQMRYOMO1id88gCVc=
+                            [X-WC-Webhook-ID] => 12
+                            [X-WC-Webhook-Delivery-ID] => bce480a37ae2dc52bdc693e0d42671ae
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:13:44 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be87-2154e6234289dd1c0321195e;Parent=7d18f1c2b575726c;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 527f47de-5af5-479e-ba84-9018791e8a64
+                                    [x-amz-apigw-id] => G-K1TG-eIAMEYDQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 ea1aadbeedf1001a86f79fc729fb39e0.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => -cmxxLIcU3j89cZ19Kn3UZ7NAsIH80m7FHeChLPrQSlj2Mjv01vcmw==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3dec0b7fcba814a3d3bf4641dc2c2681
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.24771
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => Ff4D3HeD7txwJN5pA/6YcxC4aTVEkU4tuKk2Ak09+cU=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 3dec0b7fcba814a3d3bf4641dc2c2681
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:13:44 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be88-6ea43dd828b3490128a51fb9;Parent=384f88f9dc2b5d1a;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 84ea0f5c-0227-4c60-83a9-051d6a3366e4
+                                    [x-amz-apigw-id] => G-K1WEF7IAMEYMA=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 43244f77affffa1d8942dd025413b8d8.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => E_-2EUx1d0MWwu1qr-qKtIrznzR9k92ap6K_dPptHADoBgaHh6hFrQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3dec0b7fcba814a3d3bf4641dc2c2681
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.42742
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => RMn8ia0husp8XvsS+y0i1XKMXSHnFcYIZtHYzJMsd0Y=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 3dec0b7fcba814a3d3bf4641dc2c2681
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:13:44 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be88-41e079675538efc1599f633f;Parent=61153995900c84c2;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => d63d5b28-b7a6-4e86-b859-cdca7b3bb51b
+                                    [x-amz-apigw-id] => G-K1bHxToAMEDQA=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 35cfa6fbcb341fd2ae15e24a43e2f57a.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => TdhL52wHqVDk8gM5Mtm1S8orQ2wVH6GCX64EwJSV0KpAno0kd7e2jQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:13:45+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3dec0b7fcba814a3d3bf4641dc2c2681
+            [Date] => Mar 5, 2025 @ 21:13
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.42608
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => uiA0xh/je84pBq0Xjg5dp7e5E5YLPt4RM75tBX/mCT4=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 3dec0b7fcba814a3d3bf4641dc2c2681
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:13:45 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8be89-1185a06d7b35e8547bd113d9;Parent=0deff7f97b3b305c;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 9e4e469a-7cd4-49aa-b3ad-d6dccef77f9f
+                                    [x-amz-apigw-id] => G-K1fFIfoAMEf2g=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 38f2daae6c849ed5f695333a9d4104ae.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => jD54RHYG1znZgERqUK6qBtt5NEJSYsAscwTnQtvw5DwefJ0T4Xz95Q==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:47:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3aae5cc288787b1a3f4e2aee5176ec13
+            [Date] => Mar 5, 2025 @ 21:47
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.48647
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => btZkeMY6piZ988SZ/lF9fN1si8ZYQq8Lb0XORm67Bm4=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 3aae5cc288787b1a3f4e2aee5176ec13
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:47:43 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8c67f-5b4b4a5d422cf11143ef9991;Parent=7b96ec818cef387d;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 42c176e5-2f1f-43b3-865b-c7f4b3b31703
+                                    [x-amz-apigw-id] => G-P0CEfrIAMEZLg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 2809edb23da5b1de8a640a251efb8608.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => jsHGP-_Tyw1XQr9bUvX_FLEDDWu6hVz3wgMy8nOT_OpMvGB7q7nCdQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 363b48cbf849e111f11e013305b7ffd9
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.60621
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => IbW35n3W7VgaK4uy7CkFvdmzDZPEBfBSG5vODmfKVTQ=
+                            [X-WC-Webhook-ID] => 43
+                            [X-WC-Webhook-Delivery-ID] => 363b48cbf849e111f11e013305b7ffd9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 21:48:41 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => 1fe21af0-7ea7-44f0-b643-861a92d54669
+                                    [bob-go-request-id] => 1fe21af0-7ea7-44f0-b643-861a92d54669
+                                    [apigw-requestid] => G-P9FgnrCfMEJ3w=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 615ea2d4b1ddd6e8959238f2837c706d
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.26158
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => bdJaj+ODzoXD2zNLq2r60VcPg7WelHZ6QkjCPxflhug=
+                            [X-WC-Webhook-ID] => 14
+                            [X-WC-Webhook-Delivery-ID] => 615ea2d4b1ddd6e8959238f2837c706d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:48:42 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8c6ba-60cacb08405d5c5941d77e12;Parent=5fc416ffdb192d3f;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 85b2dc9b-859d-4c8f-a24d-dc0154cc9a7a
+                                    [x-amz-apigw-id] => G-P9IHb7IAMEPvQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 d6f0ad3267f72bf9b59a5eb61f811fe2.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => VAXAc7CCHO-8oH2z-DVBEUWrKkn2EIIZBWsMl2CIuZIho073BeDutw==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5dd4ae100b3c4e89874613d7b2d873ec
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://saas.peacherp.com/PEACHWEB_WEB/UK/KineticCommerce/wc-peachwebhook.awp
+            [Duration] => 0.80985
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => UPbHEUwCA2tYE7r2WgWTD1lygKHRE+Z0YlnHEwiGofo=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 5dd4ae100b3c4e89874613d7b2d873ec
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => no-cache
+                                    [pragma] => no-cache
+                                    [content-type] => text/html; charset=utf-8
+                                    [content-encoding] => gzip
+                                    [expires] => Thu, 01 Dec 1998 16:00:00 GMT
+                                    [vary] => Accept-Encoding
+                                    [server] => Microsoft-IIS/10.0
+                                    [date] => Wed, 05 Mar 2025 21:48:42 GMT
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fae387d3d358ebda26b8b9c18ec967eb
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://api.sandbox.bobgo.co.za/webhook/channel?channel=c46b0966-3600-4b05-9d58-ae8a2ddbb8b8
+            [Duration] => 0.57705
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 6wcl39f/FsbNgnIKdlurc56cu5rLyS3sJA/ej46KZFU=
+                            [X-WC-Webhook-ID] => 42
+                            [X-WC-Webhook-Delivery-ID] => fae387d3d358ebda26b8b9c18ec967eb
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 05 Mar 2025 21:48:43 GMT
+                                    [content-type] => application/json
+                                    [content-length] => 4
+                                    [x-request-id] => b9c872cb-d8f4-4a34-989c-ace9b7925982
+                                    [bob-go-request-id] => b9c872cb-d8f4-4a34-989c-ace9b7925982
+                                    [apigw-requestid] => G-P9Wi0xifMEJcQ=
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7fe5cb537da5fcadfaa9bb61b49df8ca
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.21971
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => bdJaj+ODzoXD2zNLq2r60VcPg7WelHZ6QkjCPxflhug=
+                            [X-WC-Webhook-ID] => 12
+                            [X-WC-Webhook-Delivery-ID] => 7fe5cb537da5fcadfaa9bb61b49df8ca
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:48:43 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8c6bb-73d13e5b0d890a0e11126f40;Parent=192f41e059a882d7;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => 4178c014-86f4-424d-9951-85ab501ea14a
+                                    [x-amz-apigw-id] => G-P9YE4XoAMEczg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 f1b6636265d2ca44d8a0ca5488a5ec0c.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => dt-QmgNTUvYQQry05GruNv5Kfh5U7Yiag0E5Puw15yaYnQQ_6P5edQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0501ce9aabf7e958c93043b6ddf5461b
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.25676
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => tNmlDR5awoEzi1TuJfDEG9SjxGRA4Vl+3ek0osix3Kc=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 0501ce9aabf7e958c93043b6ddf5461b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:48:44 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8c6bb-75b98d2d174a39522083242b;Parent=49143445f7ff8e94;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => bd6e4f72-f923-46d5-a018-2eaeb8d38b95
+                                    [x-amz-apigw-id] => G-P9bFxYoAMEFTg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 c8ad942d9a5a20a8da22d39de4142f78.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => IiLJvdZDeoIRRCzOlvsA8EfvCjbQebDGWKu4YdAP5lnumv1zi7j_1g==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 39ebad1f4751acb80b4b384d19a8b6ac
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.23783
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => vAEkiR7gM4DfW5nIl5iGJ3RAkDnh0q9gbNhWuqDRy40=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 39ebad1f4751acb80b4b384d19a8b6ac
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:48:44 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8c6bc-024c72d343e23cca1c68b259;Parent=15b074c8f39f6d9f;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => a1008c41-b5c3-4715-8aeb-b56796c63aaa
+                                    [x-amz-apigw-id] => G-P9eF1ZoAMEFTg=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 503c2bd0b7e26f747c58a5188346ef54.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => anwjzMSNkvla76hDhnPHMu4pDsaHu0CfzmF3Fhe0rUgxB9HWIXjqwQ==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-03-05T21:48:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 39ebad1f4751acb80b4b384d19a8b6ac
+            [Date] => Mar 5, 2025 @ 21:48
+            [URL] => https://external-production.woo.drip.sh/3564727/integrations/mrn4j29q37c4/events
+            [Duration] => 0.44429
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.7.1 Hookshot (WordPress/6.7.2)
+                            [Content-Type] => application/json
+                            [X-WC-Drip-Version] => 1.1.8
+                            [X-WC-Webhook-Source] => https://www.peacherp.com/coach/
+                            [X-WC-Webhook-Topic] => action.wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Resource] => action
+                            [X-WC-Webhook-Event] => wc_drip_woocommerce_cart_event
+                            [X-WC-Webhook-Signature] => aF3P5JF/rXH66ePdKCPCxKNF+qkSFDDnZUWfiJJWNq4=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 39ebad1f4751acb80b4b384d19a8b6ac
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [content-length] => 53
+                                    [date] => Wed, 05 Mar 2025 21:48:44 GMT
+                                    [x-amzn-trace-id] => Root=1-67c8c6bc-3942f38e43bb06702ac52d8b;Parent=0301c18696046696;Sampled=0;Lineage=1:648a036a:0
+                                    [x-amzn-requestid] => c5a34098-021a-43bd-bd18-e1779b8f0261
+                                    [x-amz-apigw-id] => G-P9iGvAoAMEjWQ=
+                                    [x-cache] => Miss from cloudfront
+                                    [via] => 1.1 0ccdc706b9b907d47a4960eec0e95f2a.cloudfront.net (CloudFront)
+                                    [x-amz-cf-pop] => FRA60-P10
+                                    [x-amz-cf-id] => UomZ7faseV7ZPWUUHqN4SyEcKnPMSr5MKX808ZgHkAq2l1VtJxve_A==
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

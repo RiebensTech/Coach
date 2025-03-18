@@ -1,0 +1,331 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Swatchly Pro - Variation Swatches for WooCommerce "
+"Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-19 06:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: swatchly-pro"
+
+#. %s: Product title
+#: includes/ajax-actions.php:46
+#, php-format
+msgid "\"%1$s\" has been added to your cart. %2$s"
+msgstr ""
+
+#. 1: Swatchly Pro.
+#. 2: WooCommerce.
+#: swatchly-pro.php:194
+#, php-format
+msgid ""
+"%1$s plugin requires the %2$s plugin to be installed and activated in order "
+"to work."
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:181
+#: includes/Admin/Product_Metabox.php:196
+#: includes/Admin/Product_Metabox.php:210
+msgid "-------"
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:1015
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:109
+msgid "Auto convert Dropdown to Image Swatch"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:104
+msgid "Auto convert Dropdowns to Label Swatch"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:97
+msgid "By checking this will enable you to set multiple color."
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:65
+msgid ""
+"By default, the \"Attribute Name\" will be shown as the tooltip. If you want "
+"custom tooltip text, put it here."
+msgstr ""
+
+#: includes/Admin.php:77
+msgid "Choose an image"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:184
+msgid "Circle"
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:850 includes/Frontend/Woo_Config.php:941
+msgid "Clear"
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:32
+msgid "Color"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:55
+#: includes/Admin/Product_Metabox.php:198
+#: includes/Admin/Product_Metabox.php:213
+#: includes/Admin/Product_Metabox.php:378
+msgid "Disable"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:197
+msgid "Enable"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:113
+msgid "Enable Image Type Attribute For"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:96
+#: includes/Admin/Product_Metabox.php:431
+msgid "Enable Multi Color"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:192
+msgid "Enable Shape Inset"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://plugindemo.hasthemes.com/swatchly/"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:33
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:54
+#: includes/Admin/Product_Metabox.php:212
+#: includes/Admin/Product_Metabox.php:377 includes/Admin/Woo_Config.php:33
+msgid "Image"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:41
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:80
+msgid "Image Size"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:158
+#: includes/Admin/Product_Metabox.php:346
+#: includes/Admin/Product_Metabox.php:375
+msgid "Inherit"
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:31
+msgid "Label"
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:736
+msgid "More"
+msgstr ""
+
+#: includes/ajax-actions.php:78 includes/ajax-actions.php:101
+#: includes/ajax-actions.php:131
+msgid "No naughty business please!"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:42
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:81
+#: includes/Admin/Product_Metabox.php:124
+msgid ""
+"Place the image size name here. WordPress default image sizes are: thumbnail,"
+" medium, medium_large, large and full. Custom image size also can be used. "
+"Default is: thumbnail"
+msgstr ""
+
+#: includes/Frontend.php:90
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:34
+msgid "Radio"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:241
+#: includes/Admin/Product_Metabox.php:406
+#: includes/Admin/Product_Metabox.php:462
+msgid "Remove image"
+msgstr ""
+
+#: includes/ajax-actions.php:144
+msgid "Reset Done!"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:63
+msgid "Reset to Default"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:183
+msgid "Rounded"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:62
+msgid "Save Swatches"
+msgstr ""
+
+#: includes/ajax-actions.php:118
+msgid "Saved!"
+msgstr ""
+
+#: includes/Admin.php:76
+msgid "Saving..."
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:30
+msgid "Select"
+msgstr ""
+
+#. 1: Settings label
+#: includes/Admin.php:37 includes/Admin.php:90
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:177
+msgid "Shape Style"
+msgstr ""
+
+#: includes/Frontend.php:89
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: includes/Frontend.php:91
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:182
+msgid "Squared"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:89
+#: includes/Admin/Product_Metabox.php:425
+msgid "Swatch Color"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:104
+#: includes/Admin/Product_Metabox.php:437
+msgid "Swatch Color 2"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:111
+#: includes/Admin/Product_Metabox.php:443
+msgid "Swatch Color 3"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:449
+msgid "Swatch Image"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:470
+msgid "Swatch Image Size"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:50
+#: includes/Admin/Product_Metabox.php:206
+#: includes/Admin/Product_Metabox.php:371
+msgid "Swatch Tooltip"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:156
+#: includes/Admin/Product_Metabox.php:344
+msgid "Swatch Type"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:34
+msgid "Swatches Settings"
+msgstr ""
+
+#: swatchly-pro.php:195
+msgid "Swatchly Pro"
+msgstr ""
+
+#. Name of the plugin
+msgid "Swatchly Pro - Variation Swatches for WooCommerce Products"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:53
+#: includes/Admin/Product_Metabox.php:211
+#: includes/Admin/Product_Metabox.php:376
+msgid "Text"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:116
+msgid "The attribute with Maximum variations count"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:117
+msgid "The attribute with Minimum variations count"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:115
+msgid "The First attribute"
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:822 includes/Frontend/Woo_Config.php:912
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:72
+#: includes/Admin/Product_Metabox.php:228
+#: includes/Admin/Product_Metabox.php:393
+msgid "Tooltip Image"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:249
+#: includes/Admin/Product_Metabox.php:414
+msgid "Tooltip Image Size"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:64
+#: includes/Admin/Product_Metabox.php:220
+#: includes/Admin/Product_Metabox.php:385
+msgid "Tooltip Text"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:240
+#: includes/Admin/Product_Metabox.php:405
+#: includes/Admin/Product_Metabox.php:461
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:52
+msgid "Use Global Setting"
+msgstr ""
+
+#: includes/Admin.php:78
+msgid "Use image"
+msgstr ""
+
+#. Description of the plugin
+msgid "Variation Swatches for WooCommerce Products"
+msgstr ""
+
+#: includes/ajax-actions.php:48
+msgid "View Cart"
+msgstr ""
+
+#: swatchly-pro.php:196
+msgid "WooCommerce"
+msgstr ""

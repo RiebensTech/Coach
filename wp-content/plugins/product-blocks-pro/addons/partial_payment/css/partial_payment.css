@@ -1,0 +1,85 @@
+._wopb_partial_payment_enable_field .description{
+    display: inline-block;
+    margin-left: 10px;
+}
+.wopb-partial-payment-field-group {
+    padding: 15px;
+    background: #f5f5f5;
+    border: 1px solid #d8d8d8;
+}
+
+.wopb-partial-payment-field-group .wopb-partial-payment-title{
+    border-bottom: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+    margin: 0;
+    padding: 0 0 8px;
+    font-size: 18px;
+}
+
+.wopb-partial-payment-field-group .form-field label{
+    padding-bottom: 2px;
+    display: inline-block;
+}
+
+.woocommerce_variable_attributes .wopb-partial-payment-field-group .wopb-partial-payment-enable{
+    margin-left: 10px;
+}
+
+.wopb-deposit-section{
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #e9e9e9;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.wopb-deposit-section > div{
+    padding: 10px;
+}
+
+.wopb-deposit-section .wopb-partial-pay-section{
+    background: rgba(51,51,51,0.02);
+    border-bottom: 1px solid #e9e9e9;
+}
+
+.wopb-deposit-section input:focus {
+    outline: none;
+}
+
+.wopb-deposit-section .wopb-partial-amount-section {
+    margin-left: 30px;
+    display: none;
+}
+
+.wopb-deposit-section .wopb-partial-amount-section .wopb-partial-amount-title, .wopb-deposit-section .wopb-partial-amount-section .wopb-partial-amount {
+    font-size: 16px;
+    color: #2c8d1a;
+}
+
+.wopb-partial-payment-badge{
+    background: #007cba;
+    color: #fff;
+    margin-left: 3px;
+    padding: 5px;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.wopb-order-deposit-payment, .wopb-order-future-payment{
+    font-size: 14px;
+    color: #767676;
+}
+
+.wopb-deposit-payment{
+    font-size: 14px;
+}
+.wopb-checkout-review-order .wopb-order-due-payment {
+    display: inline-block;
+}
+.wc-item-meta.wopb-partial-item-meta li {
+    display: flex;
+    align-items: center;
+}
+.wc-item-meta.wopb-partial-item-meta .wopb-partial-payment-badge {
+    margin-right: 5px;
+}

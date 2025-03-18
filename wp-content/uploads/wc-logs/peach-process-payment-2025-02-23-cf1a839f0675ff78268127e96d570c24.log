@@ -1,0 +1,27 @@
+2025-02-23T23:02:09+00:00 INFO 
+Array
+(
+    [settings] => Array
+        (
+            [transactionmode] => INTEGRATOR_TEST
+            [secrettoken] => a19e1a6b38fe4a248d51478455f3cafd
+            [accesstoken] => OGFjN2E0Yzk5MzYxM2VhYTAxOTM2MzBlMzQ4NDAzZmJ8QmdUa0NIPXpKOVRwMzNDUXJzTGQ=
+            [secureid] => 8ac7a4ca936146f50193630e83f703b8
+            [recurringid] => 
+            [card_webhook_key] => 
+            [completestatus] => no
+            [peach_order_status] => wc-completed
+        )
+
+    [bearerOrderID_after] => 
+    [orderafter] => 
+    [errors] => Array
+        (
+            [Order] => 
+            [Payment] => Card Widget
+            [Response] => Order Failed
+        )
+
+)
+
+

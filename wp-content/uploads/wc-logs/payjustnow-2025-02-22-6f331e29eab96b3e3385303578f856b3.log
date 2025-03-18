@@ -1,0 +1,190 @@
+2025-02-22T12:29:13+00:00 NOTICE ================ New transaction started on: CONTEXT: {"_legacy":true}
+2025-02-22T12:29:13+00:00 NOTICE https://sandbox.payjustnow.com/api/v1/merchant/checkout CONTEXT: {"_legacy":true}
+2025-02-22T12:29:13+00:00 NOTICE ================ Token request sent to PJN: CONTEXT: {"_legacy":true}
+2025-02-22T12:29:13+00:00 NOTICE Array
+(
+    [method] => POST
+    [timeout] => 30
+    [allow_redirects] => 
+    [httpversion] => 1.0
+    [headers] => Array
+        (
+            [Authorization] => Basic ODM2OjU5NjUxMDk1M2M5ZDg3NWQ5NWUzMTI0NmM4ODlkZDQwNDRjYTIxNWY2ZDgwOTcxMzJmOTI5YWQyMzAxZmU2MDQ=
+            [Content-type] => application/json
+            [Accept] => application/json
+        )
+
+    [body] => {"customer":{"first_name":"Rob","last_name":"Hartman","company":"Private","email":"sales@riebens.com","mobile_number":"0710913511","address":{"address_line_1":"21","address_line_2":"","city":"Cape Town","postal_code":"7133","province":"WC","country":"ZA"}},"order":{"amount":98995,"merchant_reference":1974,"success_callback_url":"https:\/\/www.peacherp.com\/coach\/?wc-api=wc_gateway_payjustnow&pjn_key=ml2SCksdeipYWCF8BFd0&order_key=wc_order_EjNdgAliOrJYK","fail_callback_url":"https:\/\/www.peacherp.com\/coach\/?wc-api=wc_gateway_payjustnow&pjn_key=0&order_key=wc_order_EjNdgAliOrJYK","basket_count":2,"shipping_cost":11495,"items":[{"merchant_reference":"SKU1234","quantity":1,"description":"Brooklyn Shoulder Bag 28","unit_price":32500},{"merchant_reference":1687,"quantity":1,"description":"Tabby Shoulder Bag 26 With Pillow Quilting","unit_price":55000}]}}
+    [cookies] => Array
+        (
+        )
+
+)
+ CONTEXT: {"_legacy":true}
+2025-02-22T12:29:13+00:00 NOTICE ================ Token response from PJN: CONTEXT: {"_legacy":true}
+2025-02-22T12:29:13+00:00 NOTICE Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sat, 22 Feb 2025 12:29:13 GMT
+                    [content-type] => application/json
+                    [cache-control] => no-cache, private
+                    [x-payjustnow-latest-web-appversion] => 2.5.1
+                    [x-payjustnow-latest-android-appversion] => 2.4.0
+                    [x-payjustnow-latest-ios-appversion] => 2.2.6
+                    [x-payjustnow-minimum-appversion] => 2.4.0
+                    [cf-cache-status] => DYNAMIC
+                    [report-to] => {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=exB409QgOoGfLLDKnewbray%2BQ7mmNiuvJ6yj027jkts9mgi6Vhm8DDziOfBT0XLRcvMdVuXU3PeKJaj3SrNyqegSHNzW3cBOlPjtch%2Bo4zcfPjRxolMDiKX35NAik2GdDp64ujI13cw%3D"}],"group":"cf-nel","max_age":604800}
+                    [nel] => {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+                    [server] => cloudflare
+                    [cf-ray] => 915efaf97e8001c7-CDG
+                    [content-encoding] => br
+                    [server-timing] => cfL4;desc="?proto=TCP&rtt=13607&min_rtt=13578&rtt_var=3873&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2848&recv_bytes=1872&delivery_rate=212332&cwnd=225&unsent_bytes=0&cid=71b243daea19dab5&ts=674&x=0"
+                )
+
+        )
+
+    [body] => {"data":{"token":"9ac55d852d24ba0722288a559a045660","expires_at":"2025-02-22 15:29:12","redirect_to":"https:\/\/sandbox-pwa.payjustnow.com\/checkout\/jnegM23bwZ?exists="}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"data":{"token":"9ac55d852d24ba0722288a559a045660","expires_at":"2025-02-22 15:29:12","redirect_to":"https:\/\/sandbox-pwa.payjustnow.com\/checkout\/jnegM23bwZ?exists="}}
+                    [raw] => HTTP/1.1 200 OK
+Date: Sat, 22 Feb 2025 12:29:13 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: no-cache, private
+x-payjustnow-latest-web-appversion: 2.5.1
+x-payjustnow-latest-android-appversion: 2.4.0
+x-payjustnow-latest-ios-appversion: 2.2.6
+x-payjustnow-minimum-appversion: 2.4.0
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=exB409QgOoGfLLDKnewbray%2BQ7mmNiuvJ6yj027jkts9mgi6Vhm8DDziOfBT0XLRcvMdVuXU3PeKJaj3SrNyqegSHNzW3cBOlPjtch%2Bo4zcfPjRxolMDiKX35NAik2GdDp64ujI13cw%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 915efaf97e8001c7-CDG
+Content-Encoding: br
+server-timing: cfL4;desc="?proto=TCP&rtt=13607&min_rtt=13578&rtt_var=3873&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2848&recv_bytes=1872&delivery_rate=212332&cwnd=225&unsent_bytes=0&cid=71b243daea19dab5&ts=674&x=0"
+
+{"data":{"token":"9ac55d852d24ba0722288a559a045660","expires_at":"2025-02-22 15:29:12","redirect_to":"https:\/\/sandbox-pwa.payjustnow.com\/checkout\/jnegM23bwZ?exists="}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sat, 22 Feb 2025 12:29:13 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => no-cache, private
+                                        )
+
+                                    [x-payjustnow-latest-web-appversion] => Array
+                                        (
+                                            [0] => 2.5.1
+                                        )
+
+                                    [x-payjustnow-latest-android-appversion] => Array
+                                        (
+                                            [0] => 2.4.0
+                                        )
+
+                                    [x-payjustnow-latest-ios-appversion] => Array
+                                        (
+                                            [0] => 2.2.6
+                                        )
+
+                                    [x-payjustnow-minimum-appversion] => Array
+                                        (
+                                            [0] => 2.4.0
+                                        )
+
+                                    [cf-cache-status] => Array
+                                        (
+                                            [0] => DYNAMIC
+                                        )
+
+                                    [report-to] => Array
+                                        (
+                                            [0] => {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=exB409QgOoGfLLDKnewbray%2BQ7mmNiuvJ6yj027jkts9mgi6Vhm8DDziOfBT0XLRcvMdVuXU3PeKJaj3SrNyqegSHNzW3cBOlPjtch%2Bo4zcfPjRxolMDiKX35NAik2GdDp64ujI13cw%3D"}],"group":"cf-nel","max_age":604800}
+                                        )
+
+                                    [nel] => Array
+                                        (
+                                            [0] => {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => cloudflare
+                                        )
+
+                                    [cf-ray] => Array
+                                        (
+                                            [0] => 915efaf97e8001c7-CDG
+                                        )
+
+                                    [content-encoding] => Array
+                                        (
+                                            [0] => br
+                                        )
+
+                                    [server-timing] => Array
+                                        (
+                                            [0] => cfL4;desc="?proto=TCP&rtt=13607&min_rtt=13578&rtt_var=3873&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2848&recv_bytes=1872&delivery_rate=212332&cwnd=225&unsent_bytes=0&cid=71b243daea19dab5&ts=674&x=0"
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://sandbox.payjustnow.com/api/v1/merchant/checkout
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+ CONTEXT: {"_legacy":true}
+2025-02-22T12:29:13+00:00 NOTICE ================ CONTEXT: {"_legacy":true}

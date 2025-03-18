@@ -1,0 +1,3 @@
+function displayTable(){var e,n=o.val(),a=i.val();n&&a?(n=".size-chart-"+n+"-"+a,a=$(".size-guide-topic-title"),e=$(".size-chart-table-container"),$(".size-chart-container").show(),a.find("h2").hide(),a.find("h2"+n).show(),e.find("div:not("+n+") table").parent().hide(),e.find("div"+n+" table").parent().show()):alert("Select Category!")}
+function genderSelect(){$("#topic-select").val(""),$(".conversion-list-select").val("us"),"women"==t.target.value?$("#topic-jewelry, #topic-dress").show():$("#topic-jewelry, #topic-dress").hide()}
+function topicSelect(){$(".conversion-list-select").val("us"),$(".footwear-select").val("eu")}

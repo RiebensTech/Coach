@@ -1,0 +1,21 @@
+.wopb-stock-progress-title {
+    display: flex;
+    justify-content: space-between;
+}
+.wopb-stock-progress-bar-section{
+    margin-bottom: 10px;
+}
+
+.wopb-stock-progress-bar {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.wopb-stock-progress {
+    width: 0;
+    height: 5px;
+    border-radius: 5px;
+}
+.stock.in-stock + .wopb-stock-progress-bar-section {
+    margin-top: 7px;
+}
